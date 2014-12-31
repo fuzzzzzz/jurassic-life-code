@@ -1,10 +1,10 @@
 ## Jurassic Life Source SDK Code 2013
 
 Here is the code of Jurassic life, so we are sharing it for convenience purpose and collaboration, that reduce the maintance tasks and the ease of use for collaborationHere is the code of Jurassic life, so we are sharing it for convenience purpose,and it will also help to reduce the adminitration task of the repository tasks and the ease of use for collaboration
-If you want to collaborate seriously you can send me a message via github at @fuzzzzzz.
+If you want to collaborate seriously you can send me a message via github at fuzzzzzz_@_gmail_DOT_com .
 
 [Jurrassic life Website] ( http://jurassic-life.com )
-Contact : @fuzzzzzz ( Nicolas Kirsch )
+Contact : fuzzzzzz_@_gmail_DOT_com ( Nicolas Kirsch )
 
 ## Credits
 
