@@ -4,13 +4,14 @@ Here is the code of Jurassic life, so we are sharing it for convenience purpose 
 If you want to collaborate seriously you can send me a message via github at fuzzzzzz_@_gmail_DOT_com .
 
 [Jurrassic life Website] ( http://jurassic-life.com )
+
 Contact : fuzzzzzz_@_gmail_DOT_com ( Nicolas Kirsch )
 
 ## Credits
 
-Nicolas Kirsch
-Thibault Hennequin
-Biohazard ( Shader Editor )
+* Nicolas Kirsch
+* Thibault Hennequin
+* Biohazard ( Shader Editor )
 
 
 Note : I am a beginner with both Git and git CLient (smartGit), so i am not able right now to merge bug fixed from different upstream then the Valve Repo and my own Branches.
