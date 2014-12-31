@@ -1,0 +1,34 @@
+//-----------------------------------------------------------------------------
+//	LUABINDLIB.VPC
+//
+//	Project Script
+//-----------------------------------------------------------------------------
+
+$macro SRCDIR		"..\.."
+$Macro OUTLIBDIR	"$SRCDIR\lib\public" // [!$LINUX]
+
+$include "$SRCDIR\vpc_scripts\source_lib_win32_base.vpc"
+
+$Configuration
+{
+	$Compiler
+	{
+		$AdditionalIncludeDirectories	"$BASE;..\..\thirdparty\lua-5.1.4\src\;..\..\thirdparty\lua-5.1.4\etc\;"
+		$PreprocessorDefinitions		"$BASE;"
+	}
+}
+
+$Project "luabind"
+{
+	$Folder	"Source Files"
+	{
+		$File	"lua_functions.cpp"
+		$File	"luabind.cpp"
+	}
+
+	$Folder	"Header Files"
+	{
+		$File	"lua_functions.h"
+		$File	"luabind.h"
+	}
+}

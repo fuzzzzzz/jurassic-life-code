@@ -1,0 +1,23 @@
+#include "common_ps_fxc.h" 
+ 
+sampler BaseTextureSampler : register( s0 ); 
+float mDelta : register( c1 );
+ 
+HALF4 main(float2 iTexCoord : TEXCOORD0) : COLOR 
+{  
+	float2 delta = float2(mDelta,mDelta);
+	float4 cColor=tex2D(BaseTextureSampler,iTexCoord);	
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(0,1)); 
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(0,-1)); 
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(1,0)); 
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(-1,0)); 
+	
+	return cColor/5.0;
+	
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(1,1)); 
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(1,-1)); 
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(-1,1)); 
+	cColor+=tex2D(BaseTextureSampler,iTexCoord+delta*float2(-1,-1)); 
+	
+	return cColor/9.0;
+} 

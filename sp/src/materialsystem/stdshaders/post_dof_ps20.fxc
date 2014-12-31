@@ -1,0 +1,41 @@
+#include "common_ps_fxc.h" 
+ 
+sampler BaseTextureSampler : register( s0 ); 
+sampler BlurTextureSampler : register( s1 ); 
+sampler DepthTextureSampler : register( s2 ); 
+const float3 mRange : register( c1 );
+const float mDebug : register( c2 );
+ 
+HALF4 main(float2 iTexCoord : TEXCOORD0) : COLOR 
+{  
+	float val = 0.0;
+	float depth = tex2D(BaseTextureSampler,iTexCoord).a;
+	
+	//depth = tex2D(DepthTextureSampler,iTexCoord).a/10.0;
+	
+	//return HALF4(depth,depth,depth,1.0);
+	
+	if (depth<mRange.x )
+	{
+		val = 1.0;
+	}else if(depth>mRange.y)
+	{
+		val = 0.0;
+	}else if (depth>=mRange.x && depth<=mRange.x+mRange.z)
+	{
+		val = 1.0-(depth-mRange.x)/mRange.z;		
+	}else if (depth<=mRange.y && depth>=mRange.y-mRange.z)
+	{
+		//val = (depth-(mRange.y-mRange.z))/mRange.z;
+		val = 0.0;
+	}else{
+		val = 0.0;
+	}
+	
+	if (mDebug!=0)
+	{
+		return lerp(HALF4(1.0,1.0,1.0,1.0), HALF4(0.0,0.0,0.0,1.0), val);
+	}else{
+		return lerp(tex2D(BaseTextureSampler,iTexCoord), tex2D(BlurTextureSampler,iTexCoord), val);
+	}	
+} 
