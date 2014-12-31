@@ -1,17 +1,17 @@
-## Objectives
+## Jurassic Life Source SDK Code 2013
 
-At that time, this repository is a sort of personal sandbox  
+Here is the code of Jurassic life, so we are sharing it for convenience purpose and collaboration, that reduce the maintance tasks and the ease of use for collaborationHere is the code of Jurassic life, so we are sharing it for convenience purpose,and it will also help to reduce the adminitration task of the repository tasks and the ease of use for collaboration
+If you want to collaborate seriously you can send me a message via github at @fuzzzzzz.
 
-Next Time, This repository will be proposed to a french game developper community as learning materials on www.game-lab.com.
-The web site is partially ported on Wordpress.
-
-
-I would be glad to receive pull Request to merge with that version
-
- - Bugs fixed on various plateform like linux & macOSX are greatly appreciated, as i am working with a Windows 7 x64 Environment.
- 
+[Jurrassic life Website] ( http://jurassic-life.com )
+Contact : @fuzzzzzz ( Nicolas Kirsch )
 
 ## Credits
+
+Nicolas Kirsch
+Thibault Hennequin
+Biohazard ( Shader Editor )
+
 
 Note : I am a beginner with both Git and git CLient (smartGit), so i am not able right now to merge bug fixed from different upstream then the Valve Repo and my own Branches.
 
