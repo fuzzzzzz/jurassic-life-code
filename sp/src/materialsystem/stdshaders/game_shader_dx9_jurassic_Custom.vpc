@@ -1,0 +1,229 @@
+//-----------------------------------------------------------------------------
+//	game_shader_dx9.vpc
+//
+//	Project Script for mods to use an an example of how to override shaders
+//-----------------------------------------------------------------------------
+
+$Macro SRCDIR		"..\.."
+$Macro GAMENAME "jurassic-life"
+$Include "$SRCDIR\materialsystem\stdshaders\game_shader_dx9_base.vpc"
+
+$Project "Shaders (Jurassic)"
+{
+	$Folder	"Source Files"
+	{
+	
+		$File	"Bloom.cpp"
+		$File	"screenspace_general.cpp"
+
+		$File "BlurFilterX.cpp"
+		$File "BlurFilterY.cpp"
+		
+		// dx8 removed support
+		$File "BlurFilterX_dx80.cpp"
+		$File "BlurFilterY_dx80.cpp"
+		
+		$File "cable_dx9.cpp"
+		// dx8 removed support
+		//$File "cable_dx6.cpp"
+		//$File "cable_dx8.cpp"
+		
+		
+		
+		$File "cloud.cpp"
+		//$File "cloud_dx8.cpp"
+		//$File "cloud_dx9.cpp"
+
+		
+		$File "debugdepth.cpp"
+		$File "DebugDrawEnvmapMask.cpp"
+		$File "debugluxel.cpp"
+		$File "debugmodifyvertex.cpp"
+		$File "debugmorphaccumulator_dx9.cpp"
+		$File "debugmrttexture.cpp"
+		$File "debugnormalmap.cpp"
+		$File "debugsoftwarevertexshader.cpp"
+		$File "debugtangentspace.cpp"
+		$File "DebugTextureView.cpp"
+		
+
+		$File "depthwrite.cpp"
+		
+		$File "eye_refract.cpp"
+		$File "eye_refract_helper.cpp"
+		$File "eyeball.cpp"
+		$File "eyeglint_dx9.cpp"
+		$File "eyes.cpp"
+		$File "eyes_dx8_dx9_helper.cpp"
+		$File "eyes_dx9.cpp"
+		
+				
+		// dx8 removed support
+		//$File "eyes_dx6.cpp"
+		
+		$File "eyes_dx8_dx9_helper.cpp"
+		$File "eyes_dx9.cpp"
+				
+		$File "refract.cpp"
+		$File "refract_dx9_helper.cpp"
+		// dx8 removed support
+		//$File "refract_dx60.cpp"
+		//$File "refract_dx80.cpp"
+		
+		
+		$File "shadowmodel_dx9.cpp"		
+		// dx8 removed support
+		//$File "shadowmodel_dx8.cpp"
+		
+				
+		$File "sky_dx9.cpp"
+		$File "sky_hdr_dx9.cpp"
+		// dx8 removed support
+		//$File "sky_dx6.cpp"
+		
+
+		$File "sprite_dx9.cpp"
+		// dx8 removed support
+		//$File "sprite.cpp"
+		//$File "sprite_dx6.cpp"
+		
+		$File "spritecard.cpp"
+		
+		$File "teeth.cpp"
+		// dx8 removed support
+		//$File "teeth_dx6.cpp"
+		//$File "teeth_dx8.cpp" // need ?
+		
+
+		$File "volume_clouds.cpp"
+		$File "volume_clouds_helper.cpp"
+		$File "vortwarp_dx9.cpp"
+
+		// We might keep the Valve support 
+		$File "vr_distort_hud.cpp"
+		$File "vr_distort_texture.cpp"
+		
+		$File "water.cpp"
+		// dx8 removed support
+		//$File "water_dudv.cpp"
+		//$File "water_dx60.cpp"
+		//$File "water_dx80.cpp"
+		//$File "water_dx81.cpp"
+		
+
+
+		//$File "DepthOfField_dx9.cpp" //ASW
+		//$File "parallaxtest.cpp" //ASW
+		
+		$File "post_blur.cpp"
+		$File "post_dof.cpp"		
+		
+		$File "cloak_dx9_helper.cpp"
+		$File "cloak_blended_pass_helper.cpp"
+		
+		$File "emissive_scroll_blended_pass_helper.cpp"
+		// dx8 removed support
+		//$File "emissive_scroll_blended_pass_dx8_helper.cpp"
+		
+
+		$File "flesh_interior_blended_pass_helper.cpp"
+		// dx8 removed support
+		//$File "flesh_interior_blended_pass_dx8_helper.cpp"
+		
+
+		$File "lightmappedgeneric_decal.cpp"
+		$File "lightmappedgeneric_dx9_helper.cpp"
+		$File "lightmappedgeneric_dx9.cpp"
+		// dx8 removed support
+		//$File "lightmappedgeneric_dx8.cpp"
+		//$File "lightmappedgeneric_dx6.cpp"
+		
+
+		$File "skin_dx9_helper.cpp"
+		
+
+		$File "unlitgeneric_dx9.cpp"
+		// dx8 removed support
+		//$File "unlitgeneric_dx6.cpp"
+		//$File "unlitgeneric_dx8.cpp"
+		
+		
+
+		$File "vertexlitgeneric_dx9_helper.cpp"
+		$File "vertexlitgeneric_dx9.cpp"
+		// dx8 removed support
+		//$File "vertexlitgeneric_dx8.cpp"
+		//$File "vertexlitgeneric_dx7.cpp"
+		//$File "vertexlitgeneric_dx6.cpp"
+		
+		$File "volume_clouds_helper.cpp"
+		$File "volume_clouds.cpp"
+
+		$File "worldtwotextureblend.cpp"
+		// dx8 removed support
+		//$File "worldtwotextureblend_dx6.cpp"
+		//$File "worldtwotextureblend_dx8.cpp"
+		
+
+		$File "worldvertexalpha.cpp"
+		// dx8 removed support
+		//$File "worldvertexalpha_dx8.cpp"
+		
+		$File "worldvertextransition.cpp"
+		// dx8 removed support
+		//$File "worldvertextransition_dx6.cpp"
+		//$File "worldvertextransition_dx6_helper.cpp"
+		//$File "worldvertextransition_dx8.cpp" // hu ?! need ?
+		
+		//$File "worldvertextransition_dx8_helper.cpp" // hu ?! Need ?
+		
+
+		
+	}
+
+	$Folder	"Header Files"
+	{
+		//$File "multiblend_dx9_helper.h"
+
+
+		$File "cloak_dx9_helper.h"
+		$File "cloak_blended_pass_helper.h"
+		$File "commandbuilder.h"
+		$File "emissive_scroll_blended_pass_helper.h"
+
+		$File "eye_refract_helper.h"		
+		$File "eyes_dx8_dx9_helper.h"
+
+
+		$File "flesh_interior_blended_pass_helper.h"
+
+		$File "lightmappedgeneric_ps2_3_x.h"
+		$File "lightmappedgeneric_dx9_helper.h"
+		
+		$File "refract_dx9_helper.h"
+		
+		$File "skin_dx9_helper.h"
+		
+		$File "vertexlitgeneric_dx95_helper.h"
+		$File "vertexlitgeneric_dx9_helper.h"
+		
+		$File "water_ps2x_helper.h"
+
+		$File "volume_clouds_helper.h"
+		$File "vortwarp_vs20_helper.h"
+
+		//$File "worldvertextransition_dx6_helper.h"
+		// dx8 removed support
+		//$File "worldvertextransition_dx8_helper.h"
+		
+		// don't override the Valve VR support
+		//$File "..\materialsystem_global.h"
+		//$File "..\imaterialsysteminternal.h"
+		
+	}
+
+	$File	"buildjurassicshaders.bat"
+	//$File	"buildepisodicshaders.bat"
+	//$File	"buildsdkshaders.bat"
+	//$File	"buildshaders.bat"
+}

@@ -1,7 +1,7 @@
-default:  fxctmp9_tmp\SDK_Bloom_ps20.inc shaders\fxc\SDK_Bloom_ps20.vcs fxctmp9_tmp\SDK_Bloom_ps20b.inc shaders\fxc\SDK_Bloom_ps20b.vcs fxctmp9_tmp\SDK_screenspaceeffect_vs20.inc shaders\fxc\SDK_screenspaceeffect_vs20.vcs fxctmp9_tmp\SDK_bloomadd_ps20.inc shaders\fxc\SDK_bloomadd_ps20.vcs fxctmp9_tmp\SDK_bloomadd_ps20b.inc shaders\fxc\SDK_bloomadd_ps20b.vcs fxctmp9_tmp\Post_dof_ps20.inc shaders\fxc\Post_dof_ps20.vcs fxctmp9_tmp\Post_blur_ps20.inc shaders\fxc\Post_blur_ps20.vcs
+default:  fxctmp9_tmp\SDK_Bloom_ps20.inc shaders\fxc\SDK_Bloom_ps20.vcs fxctmp9_tmp\SDK_Bloom_ps20b.inc shaders\fxc\SDK_Bloom_ps20b.vcs fxctmp9_tmp\SDK_screenspaceeffect_vs20.inc shaders\fxc\SDK_screenspaceeffect_vs20.vcs fxctmp9_tmp\SDK_bloomadd_ps20.inc shaders\fxc\SDK_bloomadd_ps20.vcs fxctmp9_tmp\SDK_bloomadd_ps20b.inc shaders\fxc\SDK_bloomadd_ps20b.vcs fxctmp9_tmp\Post_dof_ps20.inc shaders\fxc\Post_dof_ps20.vcs fxctmp9_tmp\Post_blur_ps20.inc shaders\fxc\Post_blur_ps20.vcs fxctmp9_tmp\JL_fade_blur_ps20.inc shaders\fxc\JL_fade_blur_ps20.vcs fxctmp9_tmp\JL_fade_blur_ps20b.inc shaders\fxc\JL_fade_blur_ps20b.vcs fxctmp9_tmp\JL_BlurFilter_vs11.inc shaders\fxc\JL_BlurFilter_vs11.vcs shaders\psh\JL_BlurFilter_ps11.vcs fxctmp9_tmp\JL_BlurFilter_ps20.inc shaders\fxc\JL_BlurFilter_ps20.vcs fxctmp9_tmp\JL_BlurFilter_ps20b.inc shaders\fxc\JL_BlurFilter_ps20b.vcs fxctmp9_tmp\JL_BlurFilter_vs20.inc shaders\fxc\JL_BlurFilter_vs20.vcs fxctmp9_tmp\JL_blurgaussian_3x3_ps20.inc shaders\fxc\JL_blurgaussian_3x3_ps20.vcs fxctmp9_tmp\JL_blurgaussian_3x3_ps20b.inc shaders\fxc\JL_blurgaussian_3x3_ps20b.vcs fxctmp9_tmp\JL_cable_ps20.inc shaders\fxc\JL_cable_ps20.vcs fxctmp9_tmp\JL_cable_ps20b.inc shaders\fxc\JL_cable_ps20b.vcs fxctmp9_tmp\JL_cable_vs20.inc shaders\fxc\JL_cable_vs20.vcs fxctmp9_tmp\JL_clearalpha_ps20.inc shaders\fxc\JL_clearalpha_ps20.vcs fxctmp9_tmp\JL_clearalpha_ps20b.inc shaders\fxc\JL_clearalpha_ps20b.vcs fxctmp9_tmp\JL_cloak_blended_pass_ps20.inc shaders\fxc\JL_cloak_blended_pass_ps20.vcs fxctmp9_tmp\JL_cloak_blended_pass_ps20b.inc shaders\fxc\JL_cloak_blended_pass_ps20b.vcs fxctmp9_tmp\JL_cloak_blended_pass_vs20.inc shaders\fxc\JL_cloak_blended_pass_vs20.vcs fxctmp9_tmp\JL_cloak_ps20.inc shaders\fxc\JL_cloak_ps20.vcs fxctmp9_tmp\JL_cloak_ps20b.inc shaders\fxc\JL_cloak_ps20b.vcs fxctmp9_tmp\JL_cloak_vs20.inc shaders\fxc\JL_cloak_vs20.vcs fxctmp9_tmp\JL_cloud_ps20.inc shaders\fxc\JL_cloud_ps20.vcs fxctmp9_tmp\JL_cloud_vs20.inc shaders\fxc\JL_cloud_vs20.vcs fxctmp9_tmp\JL_depthwrite_ps20.inc shaders\fxc\JL_depthwrite_ps20.vcs fxctmp9_tmp\JL_depthwrite_ps20b.inc shaders\fxc\JL_depthwrite_ps20b.vcs fxctmp9_tmp\JL_depthwrite_vs20.inc shaders\fxc\JL_depthwrite_vs20.vcs fxctmp9_tmp\JL_depthtodestalpha_vs20.inc shaders\fxc\JL_depthtodestalpha_vs20.vcs fxctmp9_tmp\JL_depthtodestalpha_ps20b.inc shaders\fxc\JL_depthtodestalpha_ps20b.vcs shaders\psh\JL_emissive_scroll_blended_pass_dx8_ps11.vcs vshtmp9_tmp\JL_emissive_scroll_blended_pass_dx8_vs11.inc shaders\vsh\JL_emissive_scroll_blended_pass_dx8_vs11.vcs fxctmp9_tmp\JL_emissive_scroll_blended_pass_ps20.inc shaders\fxc\JL_emissive_scroll_blended_pass_ps20.vcs fxctmp9_tmp\JL_emissive_scroll_blended_pass_ps20b.inc shaders\fxc\JL_emissive_scroll_blended_pass_ps20b.vcs fxctmp9_tmp\JL_emissive_scroll_blended_pass_vs20.inc shaders\fxc\JL_emissive_scroll_blended_pass_vs20.vcs fxctmp9_tmp\JL_eye_refract_ps20.inc shaders\fxc\JL_eye_refract_ps20.vcs fxctmp9_tmp\JL_eye_refract_ps20b.inc shaders\fxc\JL_eye_refract_ps20b.vcs fxctmp9_tmp\JL_eye_refract_vs20.inc shaders\fxc\JL_eye_refract_vs20.vcs vshtmp9_tmp\JL_eyes.inc shaders\vsh\JL_eyes.vcs shaders\psh\JL_eyes.vcs fxctmp9_tmp\JL_eyes_ps20.inc shaders\fxc\JL_eyes_ps20.vcs fxctmp9_tmp\JL_eyes_ps20b.inc shaders\fxc\JL_eyes_ps20b.vcs fxctmp9_tmp\JL_eyes_vs20.inc shaders\fxc\JL_eyes_vs20.vcs fxctmp9_tmp\JL_eyes_flashlight_ps11.inc shaders\fxc\JL_eyes_flashlight_ps11.vcs vshtmp9_tmp\JL_eyes_flashlight_vs11.inc shaders\vsh\JL_eyes_flashlight_vs11.vcs shaders\psh\JL_eyes_flashlight2_ps11.vcs fxctmp9_tmp\JL_eyes_flashlight_ps20.inc shaders\fxc\JL_eyes_flashlight_ps20.vcs fxctmp9_tmp\JL_eyes_flashlight_ps20b.inc shaders\fxc\JL_eyes_flashlight_ps20b.vcs fxctmp9_tmp\JL_eyes_flashlight_vs20.inc shaders\fxc\JL_eyes_flashlight_vs20.vcs fxctmp9_tmp\JL_eyeglint_vs20.inc shaders\fxc\JL_eyeglint_vs20.vcs fxctmp9_tmp\JL_eyeglint_ps20.inc shaders\fxc\JL_eyeglint_ps20.vcs fxctmp9_tmp\JL_eyeglint_ps20b.inc shaders\fxc\JL_eyeglint_ps20b.vcs fxctmp9_tmp\JL_flashlight_ps20.inc shaders\fxc\JL_flashlight_ps20.vcs fxctmp9_tmp\JL_flashlight_ps20b.inc shaders\fxc\JL_flashlight_ps20b.vcs fxctmp9_tmp\JL_flashlight_ps11.inc shaders\fxc\JL_flashlight_ps11.vcs fxctmp9_tmp\JL_flesh_interior_blended_pass_ps20.inc shaders\fxc\JL_flesh_interior_blended_pass_ps20.vcs fxctmp9_tmp\JL_flesh_interior_blended_pass_ps20b.inc shaders\fxc\JL_flesh_interior_blended_pass_ps20b.vcs fxctmp9_tmp\JL_flesh_interior_blended_pass_vs20.inc shaders\fxc\JL_flesh_interior_blended_pass_vs20.vcs shaders\psh\JL_LightmappedGeneric.vcs shaders\psh\JL_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.vcs shaders\psh\JL_LightmappedGeneric_AddEnvMapMaskNoTexture.vcs shaders\psh\JL_LightmappedGeneric_AddEnvMapNoTexture.vcs shaders\psh\JL_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.vcs shaders\psh\JL_LightmappedGeneric_BaseTexture.vcs vshtmp9_tmp\JL_LightmappedGeneric_BaseTexture.inc shaders\vsh\JL_LightmappedGeneric_BaseTexture.vcs shaders\psh\JL_lightmappedgeneric_basetextureblend.vcs vshtmp9_tmp\JL_lightmappedgeneric_basetextureblend.inc shaders\vsh\JL_lightmappedgeneric_basetextureblend.vcs shaders\psh\JL_LightmappedGeneric_BumpmappedEnvmap.vcs vshtmp9_tmp\JL_lightmappedgeneric_bumpmappedenvmap.inc shaders\vsh\JL_lightmappedgeneric_bumpmappedenvmap.vcs shaders\psh\JL_LightmappedGeneric_BumpmappedEnvmap_ps14.vcs vshtmp9_tmp\JL_lightmappedgeneric_bumpmappedenvmap_ps14.inc shaders\vsh\JL_lightmappedgeneric_bumpmappedenvmap_ps14.vcs shaders\psh\JL_LightmappedGeneric_BumpmappedLightmap.vcs shaders\psh\JL_LightmappedGeneric_SSBumpmappedLightmap.vcs vshtmp9_tmp\JL_lightmappedgeneric_bumpmappedlightmap.inc shaders\vsh\JL_lightmappedgeneric_bumpmappedlightmap.vcs shaders\psh\JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.vcs vshtmp9_tmp\JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.inc shaders\vsh\JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.vcs shaders\psh\JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.vcs vshtmp9_tmp\JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.inc shaders\vsh\JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.vcs shaders\psh\JL_LightmappedGeneric_Decal.vcs vshtmp9_tmp\JL_LightmappedGeneric_Decal.inc shaders\vsh\JL_LightmappedGeneric_Decal.vcs fxctmp9_tmp\JL_LightmappedGeneric_decal_ps20.inc shaders\fxc\JL_LightmappedGeneric_decal_ps20.vcs fxctmp9_tmp\JL_LightmappedGeneric_decal_ps20b.inc shaders\fxc\JL_LightmappedGeneric_decal_ps20b.vcs fxctmp9_tmp\JL_LightmappedGeneric_decal_vs20.inc shaders\fxc\JL_LightmappedGeneric_decal_vs20.vcs shaders\psh\JL_LightmappedGeneric_Detail.vcs shaders\psh\JL_LightmappedGeneric_DetailNoTexture.vcs shaders\psh\JL_LightmappedGeneric_DetailSelfIlluminated.vcs shaders\psh\JL_LightmappedGeneric_EnvMapNoTexture.vcs shaders\psh\JL_LightmappedGeneric_EnvMapV2.vcs fxctmp9_tmp\JL_lightmappedgeneric_flashlight_vs11.inc shaders\fxc\JL_lightmappedgeneric_flashlight_vs11.vcs fxctmp9_tmp\JL_lightmappedgeneric_flashlight_vs20.inc shaders\fxc\JL_lightmappedgeneric_flashlight_vs20.vcs vshtmp9_tmp\JL_LightmappedGeneric_LightingOnly.inc shaders\vsh\JL_LightmappedGeneric_LightingOnly.vcs shaders\psh\JL_LightmappedGeneric_LightingOnly_Overbright2.vcs fxctmp9_tmp\JL_lightmappedgeneric_lightingonly_overbright2_ps11.inc shaders\fxc\JL_lightmappedgeneric_lightingonly_overbright2_ps11.vcs fxctmp9_tmp\JL_lightmappedgeneric_lightingonly_vs11.inc shaders\fxc\JL_lightmappedgeneric_lightingonly_vs11.vcs shaders\psh\JL_LightmappedGeneric_MaskedEnvMapNoTexture.vcs shaders\psh\JL_LightmappedGeneric_MaskedEnvMapV2.vcs shaders\psh\JL_LightmappedGeneric_MultiplyByLighting.vcs shaders\psh\JL_LightmappedGeneric_MultiplyByLightingNoTexture.vcs shaders\psh\JL_LightmappedGeneric_MultiplyByLightingSelfIllum.vcs shaders\psh\JL_LightmappedGeneric_NoTexture.vcs fxctmp9_tmp\JL_lightmappedgeneric_ps20.inc shaders\fxc\JL_lightmappedgeneric_ps20.vcs fxctmp9_tmp\JL_lightmappedgeneric_ps20b.inc shaders\fxc\JL_lightmappedgeneric_ps20b.vcs shaders\psh\JL_LightmappedGeneric_SelfIlluminated.vcs shaders\psh\JL_LightmappedGeneric_SelfIlluminatedEnvMapV2.vcs shaders\psh\JL_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.vcs vshtmp9_tmp\JL_lightmappedgeneric_vs11.inc shaders\vsh\JL_lightmappedgeneric_vs11.vcs fxctmp9_tmp\JL_lightmappedgeneric_vs20.inc shaders\fxc\JL_lightmappedgeneric_vs20.vcs fxctmp9_tmp\JL_refract_ps20.inc shaders\fxc\JL_refract_ps20.vcs fxctmp9_tmp\JL_refract_ps20b.inc shaders\fxc\JL_refract_ps20b.vcs fxctmp9_tmp\JL_Refract_vs20.inc shaders\fxc\JL_Refract_vs20.vcs shaders\psh\JL_ShadowModel.vcs vshtmp9_tmp\JL_ShadowModel.inc shaders\vsh\JL_ShadowModel.vcs fxctmp9_tmp\JL_shadowmodel_ps20.inc shaders\fxc\JL_shadowmodel_ps20.vcs fxctmp9_tmp\JL_shadowmodel_vs20.inc shaders\fxc\JL_shadowmodel_vs20.vcs fxctmp9_tmp\JL_skin_ps20b.inc shaders\fxc\JL_skin_ps20b.vcs fxctmp9_tmp\JL_skin_vs20.inc shaders\fxc\JL_skin_vs20.vcs fxctmp9_tmp\JL_sky_ps20.inc shaders\fxc\JL_sky_ps20.vcs fxctmp9_tmp\JL_sky_ps20b.inc shaders\fxc\JL_sky_ps20b.vcs fxctmp9_tmp\JL_sky_vs20.inc shaders\fxc\JL_sky_vs20.vcs fxctmp9_tmp\JL_sky_hdr_compressed_ps20.inc shaders\fxc\JL_sky_hdr_compressed_ps20.vcs fxctmp9_tmp\JL_sky_hdr_compressed_ps20b.inc shaders\fxc\JL_sky_hdr_compressed_ps20b.vcs fxctmp9_tmp\JL_sky_hdr_compressed_rgbs_ps20.inc shaders\fxc\JL_sky_hdr_compressed_rgbs_ps20.vcs fxctmp9_tmp\JL_sky_hdr_compressed_rgbs_ps20b.inc shaders\fxc\JL_sky_hdr_compressed_rgbs_ps20b.vcs fxctmp9_tmp\JL_sprite_ps20.inc shaders\fxc\JL_sprite_ps20.vcs fxctmp9_tmp\JL_sprite_ps20b.inc shaders\fxc\JL_sprite_ps20b.vcs fxctmp9_tmp\JL_sprite_vs20.inc shaders\fxc\JL_sprite_vs20.vcs vshtmp9_tmp\JL_Teeth.inc shaders\vsh\JL_Teeth.vcs fxctmp9_tmp\JL_teeth_ps20.inc shaders\fxc\JL_teeth_ps20.vcs fxctmp9_tmp\JL_teeth_ps20b.inc shaders\fxc\JL_teeth_ps20b.vcs fxctmp9_tmp\JL_teeth_vs20.inc shaders\fxc\JL_teeth_vs20.vcs fxctmp9_tmp\JL_teeth_bump_ps20.inc shaders\fxc\JL_teeth_bump_ps20.vcs fxctmp9_tmp\JL_teeth_bump_ps20b.inc shaders\fxc\JL_teeth_bump_ps20b.vcs fxctmp9_tmp\JL_teeth_bump_vs20.inc shaders\fxc\JL_teeth_bump_vs20.vcs fxctmp9_tmp\JL_teeth_flashlight_ps20.inc shaders\fxc\JL_teeth_flashlight_ps20.vcs fxctmp9_tmp\JL_teeth_flashlight_ps20b.inc shaders\fxc\JL_teeth_flashlight_ps20b.vcs fxctmp9_tmp\JL_teeth_flashlight_vs20.inc shaders\fxc\JL_teeth_flashlight_vs20.vcs shaders\psh\JL_unlitgeneric.vcs shaders\psh\JL_UnlitGeneric_BaseTimesDetail.vcs shaders\psh\JL_UnlitGeneric_BaseAlphaMaskedEnvMap.vcs shaders\psh\JL_UnlitGeneric_Detail.vcs shaders\psh\JL_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.vcs shaders\psh\JL_UnlitGeneric_DetailEnvMap.vcs shaders\psh\JL_UnlitGeneric_DetailEnvMapMask.vcs shaders\psh\JL_UnlitGeneric_DetailEnvMapMaskNoTexture.vcs shaders\psh\JL_UnlitGeneric_DetailEnvMapNoTexture.vcs shaders\psh\JL_UnlitGeneric_DetailNoTexture.vcs shaders\psh\JL_UnlitGeneric_EnvMap.vcs shaders\psh\JL_UnlitGeneric_EnvMapMask.vcs shaders\psh\JL_UnlitGeneric_EnvMapMaskNoTexture.vcs shaders\psh\JL_UnlitGeneric_EnvMapNoTexture.vcs vshtmp9_tmp\JL_UnlitGeneric_LightingOnly.inc shaders\vsh\JL_UnlitGeneric_LightingOnly.vcs shaders\psh\JL_UnlitGeneric_NoTexture.vcs fxctmp9_tmp\JL_unlitgeneric_notexture_ps11.inc shaders\fxc\JL_unlitgeneric_notexture_ps11.vcs fxctmp9_tmp\JL_unlitgeneric_notexture_ps20.inc shaders\fxc\JL_unlitgeneric_notexture_ps20.vcs fxctmp9_tmp\JL_unlitgeneric_notexture_ps20b.inc shaders\fxc\JL_unlitgeneric_notexture_ps20b.vcs fxctmp9_tmp\JL_unlitgeneric_ps20.inc shaders\fxc\JL_unlitgeneric_ps20.vcs fxctmp9_tmp\JL_unlitgeneric_ps20b.inc shaders\fxc\JL_unlitgeneric_ps20b.vcs fxctmp9_tmp\JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11.inc shaders\fxc\JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11.vcs vshtmp9_tmp\JL_UnlitGeneric_vs11.inc shaders\vsh\JL_UnlitGeneric_vs11.vcs fxctmp9_tmp\JL_unlitgeneric_vs20.inc shaders\fxc\JL_unlitgeneric_vs20.vcs fxctmp9_tmp\JL_vertexlit_and_unlit_generic_bump_ps20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_bump_ps20.vcs fxctmp9_tmp\JL_vertexlit_and_unlit_generic_bump_ps20b.inc shaders\fxc\JL_vertexlit_and_unlit_generic_bump_ps20b.vcs fxctmp9_tmp\JL_vertexlit_and_unlit_generic_bump_vs20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_bump_vs20.vcs fxctmp9_tmp\JL_vertexlit_and_unlit_generic_ps20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_ps20.vcs fxctmp9_tmp\JL_vertexlit_and_unlit_generic_ps20b.inc shaders\fxc\JL_vertexlit_and_unlit_generic_ps20b.vcs fxctmp9_tmp\JL_vertexlit_and_unlit_generic_vs20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_vs20.vcs shaders\psh\JL_vertexlit_notexture.vcs fxctmp9_tmp\JL_vertexlit_lighting_only_ps20.inc shaders\fxc\JL_vertexlit_lighting_only_ps20.vcs fxctmp9_tmp\JL_vertexlit_lighting_only_ps20b.inc shaders\fxc\JL_vertexlit_lighting_only_ps20b.vcs shaders\psh\JL_VertexLitGeneric.vcs shaders\psh\JL_vertexlitgeneric_basealphamaskedenvmap.vcs shaders\psh\JL_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.vcs shaders\psh\JL_VertexLitGeneric_BlendTint.vcs shaders\psh\JL_VertexLitGeneric_Detail.vcs shaders\psh\JL_VertexLitGeneric_Detail_LerpBase.vcs shaders\psh\JL_VertexLitGeneric_Detail_additive.vcs shaders\psh\JL_VertexLitGeneric_Detail_additive_selfillum.vcs shaders\psh\JL_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.vcs shaders\psh\JL_VertexLitGeneric_DetailMaskedEnvMapV2.vcs shaders\psh\JL_VertexLitGeneric_DetailNoTexture.vcs shaders\psh\JL_VertexLitGeneric_DetailSelfIlluminated.vcs shaders\psh\JL_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.vcs shaders\psh\JL_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.vcs shaders\psh\JL_VertexLitGeneric_EnvMapNoTexture.vcs vshtmp9_tmp\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting.inc shaders\vsh\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vcs vshtmp9_tmp\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.inc shaders\vsh\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vcs shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2.vcs shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.vcs shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.vcs shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2_ps14.vcs shaders\psh\JL_VertexLitGeneric_EnvMapV2.vcs vshtmp9_tmp\JL_vertexlitgeneric_inc.inc shaders\vsh\JL_vertexlitgeneric_inc.vcs vshtmp9_tmp\JL_vertexlitgeneric_flashlight_vs11.inc shaders\vsh\JL_vertexlitgeneric_flashlight_vs11.vcs shaders\psh\JL_vertexlitgeneric_lightingonly_overbright2.vcs fxctmp9_tmp\JL_vertexlitgeneric_lightingonly_overbright2_ps11.inc shaders\fxc\JL_vertexlitgeneric_lightingonly_overbright2_ps11.vcs shaders\psh\JL_VertexLitGeneric_MaskedEnvMapNoTexture.vcs shaders\psh\JL_VertexLitGeneric_MaskedEnvMapV2.vcs shaders\psh\JL_VertexLitGeneric_NoTexture.vcs shaders\psh\JL_VertexLitGeneric_SelfIlluminated.vcs shaders\psh\JL_VertexLitGeneric_SelfIlluminatedEnvMapV2.vcs shaders\psh\JL_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.vcs vshtmp9_tmp\JL_VertexLitGeneric_SelfIllumOnly.inc shaders\vsh\JL_VertexLitGeneric_SelfIllumOnly.vcs vshtmp9_tmp\JL_VertexLitGeneric_vs11.inc shaders\vsh\JL_VertexLitGeneric_vs11.vcs fxctmp9_tmp\JL_volume_clouds_vs20.inc shaders\fxc\JL_volume_clouds_vs20.vcs fxctmp9_tmp\JL_volume_clouds_ps20.inc shaders\fxc\JL_volume_clouds_ps20.vcs fxctmp9_tmp\JL_volume_clouds_ps20b.inc shaders\fxc\JL_volume_clouds_ps20b.vcs fxctmp9_tmp\JL_vortwarp_ps20.inc shaders\fxc\JL_vortwarp_ps20.vcs fxctmp9_tmp\JL_vortwarp_ps20b.inc shaders\fxc\JL_vortwarp_ps20b.vcs fxctmp9_tmp\JL_vortwarp_vs20.inc shaders\fxc\JL_vortwarp_vs20.vcs fxctmp9_tmp\JL_vr_distort_hud_ps20.inc shaders\fxc\JL_vr_distort_hud_ps20.vcs fxctmp9_tmp\JL_vr_distort_hud_ps20b.inc shaders\fxc\JL_vr_distort_hud_ps20b.vcs fxctmp9_tmp\JL_vr_distort_hud_vs20.inc shaders\fxc\JL_vr_distort_hud_vs20.vcs fxctmp9_tmp\JL_vr_distort_texture_ps20.inc shaders\fxc\JL_vr_distort_texture_ps20.vcs fxctmp9_tmp\JL_vr_distort_texture_ps20b.inc shaders\fxc\JL_vr_distort_texture_ps20b.vcs fxctmp9_tmp\JL_vr_distort_texture_vs20.inc shaders\fxc\JL_vr_distort_texture_vs20.vcs fxctmp9_tmp\JL_Water_ps20.inc shaders\fxc\JL_Water_ps20.vcs fxctmp9_tmp\JL_Water_ps20b.inc shaders\fxc\JL_Water_ps20b.vcs fxctmp9_tmp\JL_Water_vs20.inc shaders\fxc\JL_Water_vs20.vcs fxctmp9_tmp\JL_WaterCheap_ps20.inc shaders\fxc\JL_WaterCheap_ps20.vcs fxctmp9_tmp\JL_WaterCheap_ps20b.inc shaders\fxc\JL_WaterCheap_ps20b.vcs fxctmp9_tmp\JL_WaterCheap_vs20.inc shaders\fxc\JL_WaterCheap_vs20.vcs shaders\psh\JL_WorldVertexAlpha.vcs vshtmp9_tmp\JL_WorldVertexAlpha.inc shaders\vsh\JL_WorldVertexAlpha.vcs fxctmp9_tmp\JL_worldvertexalpha_ps20.inc shaders\fxc\JL_worldvertexalpha_ps20.vcs fxctmp9_tmp\JL_worldvertexalpha_ps20b.inc shaders\fxc\JL_worldvertexalpha_ps20b.vcs shaders\psh\JL_WorldTwoTextureBlend.vcs shaders\psh\JL_WorldTwoTextureBlend_DetailAlpha.vcs fxctmp9_tmp\JL_WorldTwoTextureBlend_ps20.inc shaders\fxc\JL_WorldTwoTextureBlend_ps20.vcs fxctmp9_tmp\JL_WorldTwoTextureBlend_ps20b.inc shaders\fxc\JL_WorldTwoTextureBlend_ps20b.vcs shaders\psh\JL_WorldTwoTextureBlend_SelfIlluminated.vcs shaders\psh\JL_WorldVertexTransition.vcs vshtmp9_tmp\JL_WorldVertexTransition.inc shaders\vsh\JL_WorldVertexTransition.vcs shaders\psh\JL_WorldVertexTransition_ps14.vcs vshtmp9_tmp\JL_WorldVertexTransition_vs14.inc shaders\vsh\JL_WorldVertexTransition_vs14.vcs shaders\psh\JL_WorldVertexTransition_Seamless.vcs vshtmp9_tmp\JL_WorldVertexTransition_Seamless.inc shaders\vsh\JL_WorldVertexTransition_Seamless.vcs shaders\psh\JL_WorldVertexTransition_BlendBase2.vcs shaders\psh\JL_WorldVertexTransition_Editor.vcs fxctmp9_tmp\JL_writevertexalphatodestalpha_ps11.inc shaders\fxc\JL_writevertexalphatodestalpha_ps11.vcs fxctmp9_tmp\JL_writevertexalphatodestalpha_vs11.inc shaders\fxc\JL_writevertexalphatodestalpha_vs11.vcs
 
 fxctmp9_tmp\SDK_Bloom_ps20.inc shaders\fxc\SDK_Bloom_ps20.vcs: SDK_Bloom_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
-	perl G:\programming\fuzzzzzz-source-sdk-2013\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\fuzzzzzz-source-sdk-2013\sp\src" SDK_Bloom_ps2x.fxc-----SDK_Bloom_ps20
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" SDK_Bloom_ps2x.fxc-----SDK_Bloom_ps20
 	echo SDK_Bloom_ps2x.fxc>> filestocopy.txt
 	echo common_fxc.h>> filestocopy.txt
 	echo common_hlsl_cpp_consts.h>> filestocopy.txt
@@ -9,7 +9,7 @@ fxctmp9_tmp\SDK_Bloom_ps20.inc shaders\fxc\SDK_Bloom_ps20.vcs: SDK_Bloom_ps2x.fx
 	echo common_ps_fxc.h>> filestocopy.txt
 
 fxctmp9_tmp\SDK_Bloom_ps20b.inc shaders\fxc\SDK_Bloom_ps20b.vcs: SDK_Bloom_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
-	perl G:\programming\fuzzzzzz-source-sdk-2013\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\fuzzzzzz-source-sdk-2013\sp\src" SDK_Bloom_ps2x.fxc-----SDK_Bloom_ps20b
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" SDK_Bloom_ps2x.fxc-----SDK_Bloom_ps20b
 	echo SDK_Bloom_ps2x.fxc>> filestocopy.txt
 	echo common_fxc.h>> filestocopy.txt
 	echo common_hlsl_cpp_consts.h>> filestocopy.txt
@@ -17,7 +17,7 @@ fxctmp9_tmp\SDK_Bloom_ps20b.inc shaders\fxc\SDK_Bloom_ps20b.vcs: SDK_Bloom_ps2x.
 	echo common_ps_fxc.h>> filestocopy.txt
 
 fxctmp9_tmp\SDK_screenspaceeffect_vs20.inc shaders\fxc\SDK_screenspaceeffect_vs20.vcs: SDK_screenspaceeffect_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
-	perl G:\programming\fuzzzzzz-source-sdk-2013\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\fuzzzzzz-source-sdk-2013\sp\src" SDK_screenspaceeffect_vs20.fxc-----SDK_screenspaceeffect_vs20
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" SDK_screenspaceeffect_vs20.fxc-----SDK_screenspaceeffect_vs20
 	echo SDK_screenspaceeffect_vs20.fxc>> filestocopy.txt
 	echo common_fxc.h>> filestocopy.txt
 	echo common_hlsl_cpp_consts.h>> filestocopy.txt
@@ -25,7 +25,7 @@ fxctmp9_tmp\SDK_screenspaceeffect_vs20.inc shaders\fxc\SDK_screenspaceeffect_vs2
 	echo common_vs_fxc.h>> filestocopy.txt
 
 fxctmp9_tmp\SDK_bloomadd_ps20.inc shaders\fxc\SDK_bloomadd_ps20.vcs: SDK_bloomadd_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
-	perl G:\programming\fuzzzzzz-source-sdk-2013\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\fuzzzzzz-source-sdk-2013\sp\src" SDK_bloomadd_ps2x.fxc-----SDK_bloomadd_ps20
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" SDK_bloomadd_ps2x.fxc-----SDK_bloomadd_ps20
 	echo SDK_bloomadd_ps2x.fxc>> filestocopy.txt
 	echo common_fxc.h>> filestocopy.txt
 	echo common_hlsl_cpp_consts.h>> filestocopy.txt
@@ -33,7 +33,7 @@ fxctmp9_tmp\SDK_bloomadd_ps20.inc shaders\fxc\SDK_bloomadd_ps20.vcs: SDK_bloomad
 	echo common_ps_fxc.h>> filestocopy.txt
 
 fxctmp9_tmp\SDK_bloomadd_ps20b.inc shaders\fxc\SDK_bloomadd_ps20b.vcs: SDK_bloomadd_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
-	perl G:\programming\fuzzzzzz-source-sdk-2013\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\fuzzzzzz-source-sdk-2013\sp\src" SDK_bloomadd_ps2x.fxc-----SDK_bloomadd_ps20b
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" SDK_bloomadd_ps2x.fxc-----SDK_bloomadd_ps20b
 	echo SDK_bloomadd_ps2x.fxc>> filestocopy.txt
 	echo common_fxc.h>> filestocopy.txt
 	echo common_hlsl_cpp_consts.h>> filestocopy.txt
@@ -41,7 +41,7 @@ fxctmp9_tmp\SDK_bloomadd_ps20b.inc shaders\fxc\SDK_bloomadd_ps20b.vcs: SDK_bloom
 	echo common_ps_fxc.h>> filestocopy.txt
 
 fxctmp9_tmp\Post_dof_ps20.inc shaders\fxc\Post_dof_ps20.vcs: Post_dof_ps20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
-	perl G:\programming\fuzzzzzz-source-sdk-2013\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\fuzzzzzz-source-sdk-2013\sp\src" Post_dof_ps20.fxc-----Post_dof_ps20
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" Post_dof_ps20.fxc-----Post_dof_ps20
 	echo Post_dof_ps20.fxc>> filestocopy.txt
 	echo common_fxc.h>> filestocopy.txt
 	echo common_hlsl_cpp_consts.h>> filestocopy.txt
@@ -49,10 +49,1545 @@ fxctmp9_tmp\Post_dof_ps20.inc shaders\fxc\Post_dof_ps20.vcs: Post_dof_ps20.fxc c
 	echo common_ps_fxc.h>> filestocopy.txt
 
 fxctmp9_tmp\Post_blur_ps20.inc shaders\fxc\Post_blur_ps20.vcs: Post_blur_ps20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
-	perl G:\programming\fuzzzzzz-source-sdk-2013\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\fuzzzzzz-source-sdk-2013\sp\src" Post_blur_ps20.fxc-----Post_blur_ps20
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" Post_blur_ps20.fxc-----Post_blur_ps20
 	echo Post_blur_ps20.fxc>> filestocopy.txt
 	echo common_fxc.h>> filestocopy.txt
 	echo common_hlsl_cpp_consts.h>> filestocopy.txt
 	echo common_pragmas.h>> filestocopy.txt
 	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_fade_blur_ps20.inc shaders\fxc\JL_fade_blur_ps20.vcs: JL_fade_blur_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_fade_blur_ps2x.fxc-----JL_fade_blur_ps20
+	echo JL_fade_blur_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_fade_blur_ps20b.inc shaders\fxc\JL_fade_blur_ps20b.vcs: JL_fade_blur_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_fade_blur_ps2x.fxc-----JL_fade_blur_ps20b
+	echo JL_fade_blur_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_BlurFilter_vs11.inc shaders\fxc\JL_BlurFilter_vs11.vcs: JL_BlurFilter_vs11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_BlurFilter_vs11.fxc-----JL_BlurFilter_vs11
+	echo JL_BlurFilter_vs11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_BlurFilter_ps11.vcs: JL_BlurFilter_ps11.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_BlurFilter_ps11.psh-----JL_BlurFilter_ps11
+	echo JL_BlurFilter_ps11.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_BlurFilter_ps20.inc shaders\fxc\JL_BlurFilter_ps20.vcs: JL_BlurFilter_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_BlurFilter_ps2x.fxc-----JL_BlurFilter_ps20
+	echo JL_BlurFilter_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_BlurFilter_ps20b.inc shaders\fxc\JL_BlurFilter_ps20b.vcs: JL_BlurFilter_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_BlurFilter_ps2x.fxc-----JL_BlurFilter_ps20b
+	echo JL_BlurFilter_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_BlurFilter_vs20.inc shaders\fxc\JL_BlurFilter_vs20.vcs: JL_BlurFilter_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_BlurFilter_vs20.fxc-----JL_BlurFilter_vs20
+	echo JL_BlurFilter_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_blurgaussian_3x3_ps20.inc shaders\fxc\JL_blurgaussian_3x3_ps20.vcs: JL_blurgaussian_3x3_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_blurgaussian_3x3_ps2x.fxc-----JL_blurgaussian_3x3_ps20
+	echo JL_blurgaussian_3x3_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_blurgaussian_3x3_ps20b.inc shaders\fxc\JL_blurgaussian_3x3_ps20b.vcs: JL_blurgaussian_3x3_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_blurgaussian_3x3_ps2x.fxc-----JL_blurgaussian_3x3_ps20b
+	echo JL_blurgaussian_3x3_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_cable_ps20.inc shaders\fxc\JL_cable_ps20.vcs: JL_cable_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cable_ps2x.fxc-----JL_cable_ps20
+	echo JL_cable_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cable_ps20b.inc shaders\fxc\JL_cable_ps20b.vcs: JL_cable_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cable_ps2x.fxc-----JL_cable_ps20b
+	echo JL_cable_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cable_vs20.inc shaders\fxc\JL_cable_vs20.vcs: JL_cable_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cable_vs20.fxc-----JL_cable_vs20
+	echo JL_cable_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_clearalpha_ps20.inc shaders\fxc\JL_clearalpha_ps20.vcs: JL_clearalpha_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_clearalpha_ps2x.fxc-----JL_clearalpha_ps20
+	echo JL_clearalpha_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_clearalpha_ps20b.inc shaders\fxc\JL_clearalpha_ps20b.vcs: JL_clearalpha_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_clearalpha_ps2x.fxc-----JL_clearalpha_ps20b
+	echo JL_clearalpha_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloak_blended_pass_ps20.inc shaders\fxc\JL_cloak_blended_pass_ps20.vcs: JL_cloak_blended_pass_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloak_blended_pass_ps2x.fxc-----JL_cloak_blended_pass_ps20
+	echo JL_cloak_blended_pass_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloak_blended_pass_ps20b.inc shaders\fxc\JL_cloak_blended_pass_ps20b.vcs: JL_cloak_blended_pass_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloak_blended_pass_ps2x.fxc-----JL_cloak_blended_pass_ps20b
+	echo JL_cloak_blended_pass_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloak_blended_pass_vs20.inc shaders\fxc\JL_cloak_blended_pass_vs20.vcs: JL_cloak_blended_pass_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloak_blended_pass_vs20.fxc-----JL_cloak_blended_pass_vs20
+	echo JL_cloak_blended_pass_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloak_ps20.inc shaders\fxc\JL_cloak_ps20.vcs: JL_cloak_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloak_ps2x.fxc-----JL_cloak_ps20
+	echo JL_cloak_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloak_ps20b.inc shaders\fxc\JL_cloak_ps20b.vcs: JL_cloak_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloak_ps2x.fxc-----JL_cloak_ps20b
+	echo JL_cloak_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloak_vs20.inc shaders\fxc\JL_cloak_vs20.vcs: JL_cloak_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloak_vs20.fxc-----JL_cloak_vs20
+	echo JL_cloak_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloud_ps20.inc shaders\fxc\JL_cloud_ps20.vcs: JL_cloud_ps20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloud_ps20.fxc-----JL_cloud_ps20
+	echo JL_cloud_ps20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_cloud_vs20.inc shaders\fxc\JL_cloud_vs20.vcs: JL_cloud_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_cloud_vs20.fxc-----JL_cloud_vs20
+	echo JL_cloud_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_depthwrite_ps20.inc shaders\fxc\JL_depthwrite_ps20.vcs: JL_depthwrite_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_depthwrite_ps2x.fxc-----JL_depthwrite_ps20
+	echo JL_depthwrite_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_depthwrite_ps20b.inc shaders\fxc\JL_depthwrite_ps20b.vcs: JL_depthwrite_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_depthwrite_ps2x.fxc-----JL_depthwrite_ps20b
+	echo JL_depthwrite_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_depthwrite_vs20.inc shaders\fxc\JL_depthwrite_vs20.vcs: JL_depthwrite_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_depthwrite_vs20.fxc-----JL_depthwrite_vs20
+	echo JL_depthwrite_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_depthtodestalpha_vs20.inc shaders\fxc\JL_depthtodestalpha_vs20.vcs: JL_depthtodestalpha_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_depthtodestalpha_vs20.fxc-----JL_depthtodestalpha_vs20
+	echo JL_depthtodestalpha_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_depthtodestalpha_ps20b.inc shaders\fxc\JL_depthtodestalpha_ps20b.vcs: JL_depthtodestalpha_ps20b.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_depthtodestalpha_ps20b.fxc-----JL_depthtodestalpha_ps20b
+	echo JL_depthtodestalpha_ps20b.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_emissive_scroll_blended_pass_dx8_ps11.vcs: JL_emissive_scroll_blended_pass_dx8_ps11.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_emissive_scroll_blended_pass_dx8_ps11.psh-----JL_emissive_scroll_blended_pass_dx8_ps11
+	echo JL_emissive_scroll_blended_pass_dx8_ps11.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_emissive_scroll_blended_pass_dx8_vs11.inc shaders\vsh\JL_emissive_scroll_blended_pass_dx8_vs11.vcs: JL_emissive_scroll_blended_pass_dx8_vs11.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_emissive_scroll_blended_pass_dx8_vs11.vsh-----JL_emissive_scroll_blended_pass_dx8_vs11
+	echo JL_emissive_scroll_blended_pass_dx8_vs11.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_emissive_scroll_blended_pass_ps20.inc shaders\fxc\JL_emissive_scroll_blended_pass_ps20.vcs: JL_emissive_scroll_blended_pass_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_emissive_scroll_blended_pass_ps2x.fxc-----JL_emissive_scroll_blended_pass_ps20
+	echo JL_emissive_scroll_blended_pass_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_emissive_scroll_blended_pass_ps20b.inc shaders\fxc\JL_emissive_scroll_blended_pass_ps20b.vcs: JL_emissive_scroll_blended_pass_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_emissive_scroll_blended_pass_ps2x.fxc-----JL_emissive_scroll_blended_pass_ps20b
+	echo JL_emissive_scroll_blended_pass_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_emissive_scroll_blended_pass_vs20.inc shaders\fxc\JL_emissive_scroll_blended_pass_vs20.vcs: JL_emissive_scroll_blended_pass_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_emissive_scroll_blended_pass_vs20.fxc-----JL_emissive_scroll_blended_pass_vs20
+	echo JL_emissive_scroll_blended_pass_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eye_refract_ps20.inc shaders\fxc\JL_eye_refract_ps20.vcs: JL_eye_refract_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eye_refract_ps2x.fxc-----JL_eye_refract_ps20
+	echo JL_eye_refract_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eye_refract_ps20b.inc shaders\fxc\JL_eye_refract_ps20b.vcs: JL_eye_refract_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eye_refract_ps2x.fxc-----JL_eye_refract_ps20b
+	echo JL_eye_refract_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eye_refract_vs20.inc shaders\fxc\JL_eye_refract_vs20.vcs: JL_eye_refract_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h vortwarp_vs20_helper.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eye_refract_vs20.fxc-----JL_eye_refract_vs20
+	echo JL_eye_refract_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+	echo vortwarp_vs20_helper.h>> filestocopy.txt
+
+vshtmp9_tmp\JL_eyes.inc shaders\vsh\JL_eyes.vcs: JL_eyes.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes.vsh-----JL_eyes
+	echo JL_eyes.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_eyes.vcs: JL_eyes.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes.psh-----JL_eyes
+	echo JL_eyes.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyes_ps20.inc shaders\fxc\JL_eyes_ps20.vcs: JL_eyes_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_ps2x.fxc-----JL_eyes_ps20
+	echo JL_eyes_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyes_ps20b.inc shaders\fxc\JL_eyes_ps20b.vcs: JL_eyes_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_ps2x.fxc-----JL_eyes_ps20b
+	echo JL_eyes_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyes_vs20.inc shaders\fxc\JL_eyes_vs20.vcs: JL_eyes_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h vortwarp_vs20_helper.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_vs20.fxc-----JL_eyes_vs20
+	echo JL_eyes_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+	echo vortwarp_vs20_helper.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyes_flashlight_ps11.inc shaders\fxc\JL_eyes_flashlight_ps11.vcs: JL_eyes_flashlight_ps11.fxc common_fxc.h shader_constant_register_map.h JL_eyes_flashlight_inc.fxc common_vertexlitgeneric_dx9.h common_ps_fxc.h common_pragmas.h common_hlsl_cpp_consts.h common_flashlight_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_flashlight_ps11.fxc-----JL_eyes_flashlight_ps11
+	echo JL_eyes_flashlight_ps11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo JL_eyes_flashlight_inc.fxc>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+
+vshtmp9_tmp\JL_eyes_flashlight_vs11.inc shaders\vsh\JL_eyes_flashlight_vs11.vcs: JL_eyes_flashlight_vs11.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_flashlight_vs11.vsh-----JL_eyes_flashlight_vs11
+	echo JL_eyes_flashlight_vs11.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_eyes_flashlight2_ps11.vcs: JL_eyes_flashlight2_ps11.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_flashlight2_ps11.psh-----JL_eyes_flashlight2_ps11
+	echo JL_eyes_flashlight2_ps11.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyes_flashlight_ps20.inc shaders\fxc\JL_eyes_flashlight_ps20.vcs: JL_eyes_flashlight_ps2x.fxc common_fxc.h shader_constant_register_map.h JL_eyes_flashlight_inc.fxc common_vertexlitgeneric_dx9.h common_ps_fxc.h common_pragmas.h common_hlsl_cpp_consts.h common_flashlight_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_flashlight_ps2x.fxc-----JL_eyes_flashlight_ps20
+	echo JL_eyes_flashlight_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo JL_eyes_flashlight_inc.fxc>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyes_flashlight_ps20b.inc shaders\fxc\JL_eyes_flashlight_ps20b.vcs: JL_eyes_flashlight_ps2x.fxc common_fxc.h shader_constant_register_map.h JL_eyes_flashlight_inc.fxc common_vertexlitgeneric_dx9.h common_ps_fxc.h common_pragmas.h common_hlsl_cpp_consts.h common_flashlight_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_flashlight_ps2x.fxc-----JL_eyes_flashlight_ps20b
+	echo JL_eyes_flashlight_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo JL_eyes_flashlight_inc.fxc>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyes_flashlight_vs20.inc shaders\fxc\JL_eyes_flashlight_vs20.vcs: JL_eyes_flashlight_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyes_flashlight_vs20.fxc-----JL_eyes_flashlight_vs20
+	echo JL_eyes_flashlight_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyeglint_vs20.inc shaders\fxc\JL_eyeglint_vs20.vcs: JL_eyeglint_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyeglint_vs20.fxc-----JL_eyeglint_vs20
+	echo JL_eyeglint_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyeglint_ps20.inc shaders\fxc\JL_eyeglint_ps20.vcs: JL_eyeglint_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyeglint_ps2x.fxc-----JL_eyeglint_ps20
+	echo JL_eyeglint_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_eyeglint_ps20b.inc shaders\fxc\JL_eyeglint_ps20b.vcs: JL_eyeglint_ps2x.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_eyeglint_ps2x.fxc-----JL_eyeglint_ps20b
+	echo JL_eyeglint_ps2x.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_flashlight_ps20.inc shaders\fxc\JL_flashlight_ps20.vcs: JL_flashlight_ps2x.fxc common_fxc.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h common_lightmappedgeneric_fxc.h common_pragmas.h common_hlsl_cpp_consts.h common_flashlight_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_flashlight_ps2x.fxc-----JL_flashlight_ps20
+	echo JL_flashlight_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_lightmappedgeneric_fxc.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_flashlight_ps20b.inc shaders\fxc\JL_flashlight_ps20b.vcs: JL_flashlight_ps2x.fxc common_fxc.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h common_lightmappedgeneric_fxc.h common_pragmas.h common_hlsl_cpp_consts.h common_flashlight_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_flashlight_ps2x.fxc-----JL_flashlight_ps20b
+	echo JL_flashlight_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_lightmappedgeneric_fxc.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_flashlight_ps11.inc shaders\fxc\JL_flashlight_ps11.vcs: JL_flashlight_ps11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_flashlight_ps11.fxc-----JL_flashlight_ps11
+	echo JL_flashlight_ps11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_flesh_interior_blended_pass_ps20.inc shaders\fxc\JL_flesh_interior_blended_pass_ps20.vcs: JL_flesh_interior_blended_pass_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_flesh_interior_blended_pass_ps2x.fxc-----JL_flesh_interior_blended_pass_ps20
+	echo JL_flesh_interior_blended_pass_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_flesh_interior_blended_pass_ps20b.inc shaders\fxc\JL_flesh_interior_blended_pass_ps20b.vcs: JL_flesh_interior_blended_pass_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_flesh_interior_blended_pass_ps2x.fxc-----JL_flesh_interior_blended_pass_ps20b
+	echo JL_flesh_interior_blended_pass_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_flesh_interior_blended_pass_vs20.inc shaders\fxc\JL_flesh_interior_blended_pass_vs20.vcs: JL_flesh_interior_blended_pass_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_flesh_interior_blended_pass_vs20.fxc-----JL_flesh_interior_blended_pass_vs20
+	echo JL_flesh_interior_blended_pass_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric.vcs: JL_LightmappedGeneric.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric.psh-----JL_LightmappedGeneric
+	echo JL_LightmappedGeneric.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.vcs: JL_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.psh-----JL_LightmappedGeneric_AddBaseAlphaMaskedEnvMap
+	echo JL_LightmappedGeneric_AddBaseAlphaMaskedEnvMap.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_AddEnvMapMaskNoTexture.vcs: JL_LightmappedGeneric_AddEnvMapMaskNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_AddEnvMapMaskNoTexture.psh-----JL_LightmappedGeneric_AddEnvMapMaskNoTexture
+	echo JL_LightmappedGeneric_AddEnvMapMaskNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_AddEnvMapNoTexture.vcs: JL_LightmappedGeneric_AddEnvMapNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_AddEnvMapNoTexture.psh-----JL_LightmappedGeneric_AddEnvMapNoTexture
+	echo JL_LightmappedGeneric_AddEnvMapNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.vcs: JL_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.psh-----JL_LightmappedGeneric_BaseAlphaMaskedEnvMapV2
+	echo JL_LightmappedGeneric_BaseAlphaMaskedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_BaseTexture.vcs: JL_LightmappedGeneric_BaseTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BaseTexture.psh-----JL_LightmappedGeneric_BaseTexture
+	echo JL_LightmappedGeneric_BaseTexture.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_LightmappedGeneric_BaseTexture.inc shaders\vsh\JL_LightmappedGeneric_BaseTexture.vcs: JL_LightmappedGeneric_BaseTexture.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BaseTexture.vsh-----JL_LightmappedGeneric_BaseTexture
+	echo JL_LightmappedGeneric_BaseTexture.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_lightmappedgeneric_basetextureblend.vcs: JL_lightmappedgeneric_basetextureblend.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_basetextureblend.psh-----JL_lightmappedgeneric_basetextureblend
+	echo JL_lightmappedgeneric_basetextureblend.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_lightmappedgeneric_basetextureblend.inc shaders\vsh\JL_lightmappedgeneric_basetextureblend.vcs: JL_lightmappedgeneric_basetextureblend.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_basetextureblend.vsh-----JL_lightmappedgeneric_basetextureblend
+	echo JL_lightmappedgeneric_basetextureblend.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_BumpmappedEnvmap.vcs: JL_LightmappedGeneric_BumpmappedEnvmap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BumpmappedEnvmap.psh-----JL_LightmappedGeneric_BumpmappedEnvmap
+	echo JL_LightmappedGeneric_BumpmappedEnvmap.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_lightmappedgeneric_bumpmappedenvmap.inc shaders\vsh\JL_lightmappedgeneric_bumpmappedenvmap.vcs: JL_lightmappedgeneric_bumpmappedenvmap.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_bumpmappedenvmap.vsh-----JL_lightmappedgeneric_bumpmappedenvmap
+	echo JL_lightmappedgeneric_bumpmappedenvmap.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_BumpmappedEnvmap_ps14.vcs: JL_LightmappedGeneric_BumpmappedEnvmap_ps14.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BumpmappedEnvmap_ps14.psh-----JL_LightmappedGeneric_BumpmappedEnvmap_ps14
+	echo JL_LightmappedGeneric_BumpmappedEnvmap_ps14.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_lightmappedgeneric_bumpmappedenvmap_ps14.inc shaders\vsh\JL_lightmappedgeneric_bumpmappedenvmap_ps14.vcs: JL_lightmappedgeneric_bumpmappedenvmap_ps14.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_bumpmappedenvmap_ps14.vsh-----JL_lightmappedgeneric_bumpmappedenvmap_ps14
+	echo JL_lightmappedgeneric_bumpmappedenvmap_ps14.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_BumpmappedLightmap.vcs: JL_LightmappedGeneric_BumpmappedLightmap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BumpmappedLightmap.psh-----JL_LightmappedGeneric_BumpmappedLightmap
+	echo JL_LightmappedGeneric_BumpmappedLightmap.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_SSBumpmappedLightmap.vcs: JL_LightmappedGeneric_SSBumpmappedLightmap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_SSBumpmappedLightmap.psh-----JL_LightmappedGeneric_SSBumpmappedLightmap
+	echo JL_LightmappedGeneric_SSBumpmappedLightmap.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_lightmappedgeneric_bumpmappedlightmap.inc shaders\vsh\JL_lightmappedgeneric_bumpmappedlightmap.vcs: JL_lightmappedgeneric_bumpmappedlightmap.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_bumpmappedlightmap.vsh-----JL_lightmappedgeneric_bumpmappedlightmap
+	echo JL_lightmappedgeneric_bumpmappedlightmap.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.vcs: JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.psh-----JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14
+	echo JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.inc shaders\vsh\JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.vcs: JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.vsh-----JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14
+	echo JL_LightmappedGeneric_BumpmappedLightmap_Base_ps14.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.vcs: JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.psh-----JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14
+	echo JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.inc shaders\vsh\JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.vcs: JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.vsh-----JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14
+	echo JL_LightmappedGeneric_BumpmappedLightmap_Blend_ps14.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_Decal.vcs: JL_LightmappedGeneric_Decal.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_Decal.psh-----JL_LightmappedGeneric_Decal
+	echo JL_LightmappedGeneric_Decal.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_LightmappedGeneric_Decal.inc shaders\vsh\JL_LightmappedGeneric_Decal.vcs: JL_LightmappedGeneric_Decal.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_Decal.vsh-----JL_LightmappedGeneric_Decal
+	echo JL_LightmappedGeneric_Decal.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_LightmappedGeneric_decal_ps20.inc shaders\fxc\JL_LightmappedGeneric_decal_ps20.vcs: JL_LightmappedGeneric_decal_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_decal_ps2x.fxc-----JL_LightmappedGeneric_decal_ps20
+	echo JL_LightmappedGeneric_decal_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_LightmappedGeneric_decal_ps20b.inc shaders\fxc\JL_LightmappedGeneric_decal_ps20b.vcs: JL_LightmappedGeneric_decal_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_decal_ps2x.fxc-----JL_LightmappedGeneric_decal_ps20b
+	echo JL_LightmappedGeneric_decal_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_LightmappedGeneric_decal_vs20.inc shaders\fxc\JL_LightmappedGeneric_decal_vs20.vcs: JL_LightmappedGeneric_decal_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_decal_vs20.fxc-----JL_LightmappedGeneric_decal_vs20
+	echo JL_LightmappedGeneric_decal_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_Detail.vcs: JL_LightmappedGeneric_Detail.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_Detail.psh-----JL_LightmappedGeneric_Detail
+	echo JL_LightmappedGeneric_Detail.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_DetailNoTexture.vcs: JL_LightmappedGeneric_DetailNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_DetailNoTexture.psh-----JL_LightmappedGeneric_DetailNoTexture
+	echo JL_LightmappedGeneric_DetailNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_DetailSelfIlluminated.vcs: JL_LightmappedGeneric_DetailSelfIlluminated.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_DetailSelfIlluminated.psh-----JL_LightmappedGeneric_DetailSelfIlluminated
+	echo JL_LightmappedGeneric_DetailSelfIlluminated.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_EnvMapNoTexture.vcs: JL_LightmappedGeneric_EnvMapNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_EnvMapNoTexture.psh-----JL_LightmappedGeneric_EnvMapNoTexture
+	echo JL_LightmappedGeneric_EnvMapNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_EnvMapV2.vcs: JL_LightmappedGeneric_EnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_EnvMapV2.psh-----JL_LightmappedGeneric_EnvMapV2
+	echo JL_LightmappedGeneric_EnvMapV2.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_lightmappedgeneric_flashlight_vs11.inc shaders\fxc\JL_lightmappedgeneric_flashlight_vs11.vcs: JL_lightmappedgeneric_flashlight_vs11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_flashlight_vs11.fxc-----JL_lightmappedgeneric_flashlight_vs11
+	echo JL_lightmappedgeneric_flashlight_vs11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_lightmappedgeneric_flashlight_vs20.inc shaders\fxc\JL_lightmappedgeneric_flashlight_vs20.vcs: JL_lightmappedgeneric_flashlight_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_flashlight_vs20.fxc-----JL_lightmappedgeneric_flashlight_vs20
+	echo JL_lightmappedgeneric_flashlight_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+vshtmp9_tmp\JL_LightmappedGeneric_LightingOnly.inc shaders\vsh\JL_LightmappedGeneric_LightingOnly.vcs: JL_LightmappedGeneric_LightingOnly.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_LightingOnly.vsh-----JL_LightmappedGeneric_LightingOnly
+	echo JL_LightmappedGeneric_LightingOnly.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_LightingOnly_Overbright2.vcs: JL_LightmappedGeneric_LightingOnly_Overbright2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_LightingOnly_Overbright2.psh-----JL_LightmappedGeneric_LightingOnly_Overbright2
+	echo JL_LightmappedGeneric_LightingOnly_Overbright2.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_lightmappedgeneric_lightingonly_overbright2_ps11.inc shaders\fxc\JL_lightmappedgeneric_lightingonly_overbright2_ps11.vcs: JL_lightmappedgeneric_lightingonly_overbright2_ps11.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_lightingonly_overbright2_ps11.fxc-----JL_lightmappedgeneric_lightingonly_overbright2_ps11
+	echo JL_lightmappedgeneric_lightingonly_overbright2_ps11.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_lightmappedgeneric_lightingonly_vs11.inc shaders\fxc\JL_lightmappedgeneric_lightingonly_vs11.vcs: JL_lightmappedgeneric_lightingonly_vs11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_lightingonly_vs11.fxc-----JL_lightmappedgeneric_lightingonly_vs11
+	echo JL_lightmappedgeneric_lightingonly_vs11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_MaskedEnvMapNoTexture.vcs: JL_LightmappedGeneric_MaskedEnvMapNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_MaskedEnvMapNoTexture.psh-----JL_LightmappedGeneric_MaskedEnvMapNoTexture
+	echo JL_LightmappedGeneric_MaskedEnvMapNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_MaskedEnvMapV2.vcs: JL_LightmappedGeneric_MaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_MaskedEnvMapV2.psh-----JL_LightmappedGeneric_MaskedEnvMapV2
+	echo JL_LightmappedGeneric_MaskedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_MultiplyByLighting.vcs: JL_LightmappedGeneric_MultiplyByLighting.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_MultiplyByLighting.psh-----JL_LightmappedGeneric_MultiplyByLighting
+	echo JL_LightmappedGeneric_MultiplyByLighting.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_MultiplyByLightingNoTexture.vcs: JL_LightmappedGeneric_MultiplyByLightingNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_MultiplyByLightingNoTexture.psh-----JL_LightmappedGeneric_MultiplyByLightingNoTexture
+	echo JL_LightmappedGeneric_MultiplyByLightingNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_MultiplyByLightingSelfIllum.vcs: JL_LightmappedGeneric_MultiplyByLightingSelfIllum.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_MultiplyByLightingSelfIllum.psh-----JL_LightmappedGeneric_MultiplyByLightingSelfIllum
+	echo JL_LightmappedGeneric_MultiplyByLightingSelfIllum.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_NoTexture.vcs: JL_LightmappedGeneric_NoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_NoTexture.psh-----JL_LightmappedGeneric_NoTexture
+	echo JL_LightmappedGeneric_NoTexture.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_lightmappedgeneric_ps20.inc shaders\fxc\JL_lightmappedgeneric_ps20.vcs: JL_lightmappedgeneric_ps2x.fxc common_lightmappedgeneric_fxc.h common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h lightmappedgeneric_ps2_3_x.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_ps2x.fxc-----JL_lightmappedgeneric_ps20
+	echo JL_lightmappedgeneric_ps2x.fxc>> filestocopy.txt
+	echo common_lightmappedgeneric_fxc.h>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo lightmappedgeneric_ps2_3_x.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_lightmappedgeneric_ps20b.inc shaders\fxc\JL_lightmappedgeneric_ps20b.vcs: JL_lightmappedgeneric_ps2x.fxc common_lightmappedgeneric_fxc.h common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h lightmappedgeneric_ps2_3_x.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_ps2x.fxc-----JL_lightmappedgeneric_ps20b
+	echo JL_lightmappedgeneric_ps2x.fxc>> filestocopy.txt
+	echo common_lightmappedgeneric_fxc.h>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo lightmappedgeneric_ps2_3_x.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_SelfIlluminated.vcs: JL_LightmappedGeneric_SelfIlluminated.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_SelfIlluminated.psh-----JL_LightmappedGeneric_SelfIlluminated
+	echo JL_LightmappedGeneric_SelfIlluminated.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_SelfIlluminatedEnvMapV2.vcs: JL_LightmappedGeneric_SelfIlluminatedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_SelfIlluminatedEnvMapV2.psh-----JL_LightmappedGeneric_SelfIlluminatedEnvMapV2
+	echo JL_LightmappedGeneric_SelfIlluminatedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.vcs: JL_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.psh-----JL_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2
+	echo JL_LightmappedGeneric_SelfIlluminatedMaskedEnvMapV2.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_lightmappedgeneric_vs11.inc shaders\vsh\JL_lightmappedgeneric_vs11.vcs: JL_lightmappedgeneric_vs11.vsh macros.vsh JL_LightmappedGeneric_inc.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_vs11.vsh-----JL_lightmappedgeneric_vs11
+	echo JL_lightmappedgeneric_vs11.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+	echo JL_LightmappedGeneric_inc.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_lightmappedgeneric_vs20.inc shaders\fxc\JL_lightmappedgeneric_vs20.vcs: JL_lightmappedgeneric_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_lightmappedgeneric_vs20.fxc-----JL_lightmappedgeneric_vs20
+	echo JL_lightmappedgeneric_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_refract_ps20.inc shaders\fxc\JL_refract_ps20.vcs: JL_refract_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_refract_ps2x.fxc-----JL_refract_ps20
+	echo JL_refract_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_refract_ps20b.inc shaders\fxc\JL_refract_ps20b.vcs: JL_refract_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_refract_ps2x.fxc-----JL_refract_ps20b
+	echo JL_refract_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_Refract_vs20.inc shaders\fxc\JL_Refract_vs20.vcs: JL_Refract_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_Refract_vs20.fxc-----JL_Refract_vs20
+	echo JL_Refract_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_ShadowModel.vcs: JL_ShadowModel.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_ShadowModel.psh-----JL_ShadowModel
+	echo JL_ShadowModel.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_ShadowModel.inc shaders\vsh\JL_ShadowModel.vcs: JL_ShadowModel.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_ShadowModel.vsh-----JL_ShadowModel
+	echo JL_ShadowModel.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_shadowmodel_ps20.inc shaders\fxc\JL_shadowmodel_ps20.vcs: JL_shadowmodel_ps20.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_shadowmodel_ps20.fxc-----JL_shadowmodel_ps20
+	echo JL_shadowmodel_ps20.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_shadowmodel_vs20.inc shaders\fxc\JL_shadowmodel_vs20.vcs: JL_shadowmodel_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_shadowmodel_vs20.fxc-----JL_shadowmodel_vs20
+	echo JL_shadowmodel_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_skin_ps20b.inc shaders\fxc\JL_skin_ps20b.vcs: JL_skin_ps20b.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_skin_ps20b.fxc-----JL_skin_ps20b
+	echo JL_skin_ps20b.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_skin_vs20.inc shaders\fxc\JL_skin_vs20.vcs: JL_skin_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_skin_vs20.fxc-----JL_skin_vs20
+	echo JL_skin_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sky_ps20.inc shaders\fxc\JL_sky_ps20.vcs: JL_sky_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sky_ps2x.fxc-----JL_sky_ps20
+	echo JL_sky_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sky_ps20b.inc shaders\fxc\JL_sky_ps20b.vcs: JL_sky_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sky_ps2x.fxc-----JL_sky_ps20b
+	echo JL_sky_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sky_vs20.inc shaders\fxc\JL_sky_vs20.vcs: JL_sky_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sky_vs20.fxc-----JL_sky_vs20
+	echo JL_sky_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sky_hdr_compressed_ps20.inc shaders\fxc\JL_sky_hdr_compressed_ps20.vcs: JL_sky_hdr_compressed_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sky_hdr_compressed_ps2x.fxc-----JL_sky_hdr_compressed_ps20
+	echo JL_sky_hdr_compressed_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sky_hdr_compressed_ps20b.inc shaders\fxc\JL_sky_hdr_compressed_ps20b.vcs: JL_sky_hdr_compressed_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sky_hdr_compressed_ps2x.fxc-----JL_sky_hdr_compressed_ps20b
+	echo JL_sky_hdr_compressed_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sky_hdr_compressed_rgbs_ps20.inc shaders\fxc\JL_sky_hdr_compressed_rgbs_ps20.vcs: JL_sky_hdr_compressed_rgbs_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sky_hdr_compressed_rgbs_ps2x.fxc-----JL_sky_hdr_compressed_rgbs_ps20
+	echo JL_sky_hdr_compressed_rgbs_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sky_hdr_compressed_rgbs_ps20b.inc shaders\fxc\JL_sky_hdr_compressed_rgbs_ps20b.vcs: JL_sky_hdr_compressed_rgbs_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sky_hdr_compressed_rgbs_ps2x.fxc-----JL_sky_hdr_compressed_rgbs_ps20b
+	echo JL_sky_hdr_compressed_rgbs_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sprite_ps20.inc shaders\fxc\JL_sprite_ps20.vcs: JL_sprite_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sprite_ps2x.fxc-----JL_sprite_ps20
+	echo JL_sprite_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sprite_ps20b.inc shaders\fxc\JL_sprite_ps20b.vcs: JL_sprite_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sprite_ps2x.fxc-----JL_sprite_ps20b
+	echo JL_sprite_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_sprite_vs20.inc shaders\fxc\JL_sprite_vs20.vcs: JL_sprite_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_sprite_vs20.fxc-----JL_sprite_vs20
+	echo JL_sprite_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+vshtmp9_tmp\JL_Teeth.inc shaders\vsh\JL_Teeth.vcs: JL_Teeth.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_Teeth.vsh-----JL_Teeth
+	echo JL_Teeth.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_ps20.inc shaders\fxc\JL_teeth_ps20.vcs: JL_teeth_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_ps2x.fxc-----JL_teeth_ps20
+	echo JL_teeth_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_ps20b.inc shaders\fxc\JL_teeth_ps20b.vcs: JL_teeth_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_ps2x.fxc-----JL_teeth_ps20b
+	echo JL_teeth_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_vs20.inc shaders\fxc\JL_teeth_vs20.vcs: JL_teeth_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h vortwarp_vs20_helper.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_vs20.fxc-----JL_teeth_vs20
+	echo JL_teeth_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+	echo vortwarp_vs20_helper.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_bump_ps20.inc shaders\fxc\JL_teeth_bump_ps20.vcs: JL_teeth_bump_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_bump_ps2x.fxc-----JL_teeth_bump_ps20
+	echo JL_teeth_bump_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_bump_ps20b.inc shaders\fxc\JL_teeth_bump_ps20b.vcs: JL_teeth_bump_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_bump_ps2x.fxc-----JL_teeth_bump_ps20b
+	echo JL_teeth_bump_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_bump_vs20.inc shaders\fxc\JL_teeth_bump_vs20.vcs: JL_teeth_bump_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h vortwarp_vs20_helper.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_bump_vs20.fxc-----JL_teeth_bump_vs20
+	echo JL_teeth_bump_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+	echo vortwarp_vs20_helper.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_flashlight_ps20.inc shaders\fxc\JL_teeth_flashlight_ps20.vcs: JL_teeth_flashlight_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_flashlight_ps2x.fxc-----JL_teeth_flashlight_ps20
+	echo JL_teeth_flashlight_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_flashlight_ps20b.inc shaders\fxc\JL_teeth_flashlight_ps20b.vcs: JL_teeth_flashlight_ps2x.fxc common_fxc.h shader_constant_register_map.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_flashlight_ps2x.fxc-----JL_teeth_flashlight_ps20b
+	echo JL_teeth_flashlight_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_teeth_flashlight_vs20.inc shaders\fxc\JL_teeth_flashlight_vs20.vcs: JL_teeth_flashlight_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h vortwarp_vs20_helper.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_teeth_flashlight_vs20.fxc-----JL_teeth_flashlight_vs20
+	echo JL_teeth_flashlight_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+	echo vortwarp_vs20_helper.h>> filestocopy.txt
+
+shaders\psh\JL_unlitgeneric.vcs: JL_unlitgeneric.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_unlitgeneric.psh-----JL_unlitgeneric
+	echo JL_unlitgeneric.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_BaseTimesDetail.vcs: JL_UnlitGeneric_BaseTimesDetail.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_BaseTimesDetail.psh-----JL_UnlitGeneric_BaseTimesDetail
+	echo JL_UnlitGeneric_BaseTimesDetail.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_BaseAlphaMaskedEnvMap.vcs: JL_UnlitGeneric_BaseAlphaMaskedEnvMap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_BaseAlphaMaskedEnvMap.psh-----JL_UnlitGeneric_BaseAlphaMaskedEnvMap
+	echo JL_UnlitGeneric_BaseAlphaMaskedEnvMap.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_Detail.vcs: JL_UnlitGeneric_Detail.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_Detail.psh-----JL_UnlitGeneric_Detail
+	echo JL_UnlitGeneric_Detail.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.vcs: JL_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.psh-----JL_UnlitGeneric_DetailBaseAlphaMaskedEnvMap
+	echo JL_UnlitGeneric_DetailBaseAlphaMaskedEnvMap.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_DetailEnvMap.vcs: JL_UnlitGeneric_DetailEnvMap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_DetailEnvMap.psh-----JL_UnlitGeneric_DetailEnvMap
+	echo JL_UnlitGeneric_DetailEnvMap.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_DetailEnvMapMask.vcs: JL_UnlitGeneric_DetailEnvMapMask.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_DetailEnvMapMask.psh-----JL_UnlitGeneric_DetailEnvMapMask
+	echo JL_UnlitGeneric_DetailEnvMapMask.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_DetailEnvMapMaskNoTexture.vcs: JL_UnlitGeneric_DetailEnvMapMaskNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_DetailEnvMapMaskNoTexture.psh-----JL_UnlitGeneric_DetailEnvMapMaskNoTexture
+	echo JL_UnlitGeneric_DetailEnvMapMaskNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_DetailEnvMapNoTexture.vcs: JL_UnlitGeneric_DetailEnvMapNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_DetailEnvMapNoTexture.psh-----JL_UnlitGeneric_DetailEnvMapNoTexture
+	echo JL_UnlitGeneric_DetailEnvMapNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_DetailNoTexture.vcs: JL_UnlitGeneric_DetailNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_DetailNoTexture.psh-----JL_UnlitGeneric_DetailNoTexture
+	echo JL_UnlitGeneric_DetailNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_EnvMap.vcs: JL_UnlitGeneric_EnvMap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_EnvMap.psh-----JL_UnlitGeneric_EnvMap
+	echo JL_UnlitGeneric_EnvMap.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_EnvMapMask.vcs: JL_UnlitGeneric_EnvMapMask.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_EnvMapMask.psh-----JL_UnlitGeneric_EnvMapMask
+	echo JL_UnlitGeneric_EnvMapMask.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_EnvMapMaskNoTexture.vcs: JL_UnlitGeneric_EnvMapMaskNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_EnvMapMaskNoTexture.psh-----JL_UnlitGeneric_EnvMapMaskNoTexture
+	echo JL_UnlitGeneric_EnvMapMaskNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_EnvMapNoTexture.vcs: JL_UnlitGeneric_EnvMapNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_EnvMapNoTexture.psh-----JL_UnlitGeneric_EnvMapNoTexture
+	echo JL_UnlitGeneric_EnvMapNoTexture.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_UnlitGeneric_LightingOnly.inc shaders\vsh\JL_UnlitGeneric_LightingOnly.vcs: JL_UnlitGeneric_LightingOnly.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_LightingOnly.vsh-----JL_UnlitGeneric_LightingOnly
+	echo JL_UnlitGeneric_LightingOnly.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_UnlitGeneric_NoTexture.vcs: JL_UnlitGeneric_NoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_NoTexture.psh-----JL_UnlitGeneric_NoTexture
+	echo JL_UnlitGeneric_NoTexture.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_unlitgeneric_notexture_ps11.inc shaders\fxc\JL_unlitgeneric_notexture_ps11.vcs: JL_unlitgeneric_notexture_ps11.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_unlitgeneric_notexture_ps11.fxc-----JL_unlitgeneric_notexture_ps11
+	echo JL_unlitgeneric_notexture_ps11.fxc>> filestocopy.txt
+
+fxctmp9_tmp\JL_unlitgeneric_notexture_ps20.inc shaders\fxc\JL_unlitgeneric_notexture_ps20.vcs: JL_unlitgeneric_notexture_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_unlitgeneric_notexture_ps2x.fxc-----JL_unlitgeneric_notexture_ps20
+	echo JL_unlitgeneric_notexture_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_unlitgeneric_notexture_ps20b.inc shaders\fxc\JL_unlitgeneric_notexture_ps20b.vcs: JL_unlitgeneric_notexture_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_unlitgeneric_notexture_ps2x.fxc-----JL_unlitgeneric_notexture_ps20b
+	echo JL_unlitgeneric_notexture_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_unlitgeneric_ps20.inc shaders\fxc\JL_unlitgeneric_ps20.vcs: JL_unlitgeneric_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_unlitgeneric_ps2x.fxc-----JL_unlitgeneric_ps20
+	echo JL_unlitgeneric_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_unlitgeneric_ps20b.inc shaders\fxc\JL_unlitgeneric_ps20b.vcs: JL_unlitgeneric_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_unlitgeneric_ps2x.fxc-----JL_unlitgeneric_ps20b
+	echo JL_unlitgeneric_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11.inc shaders\fxc\JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11.vcs: JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11.fxc-----JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11
+	echo JL_UnlitGeneric_MaskBaseByDetailAlpha_ps11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+vshtmp9_tmp\JL_UnlitGeneric_vs11.inc shaders\vsh\JL_UnlitGeneric_vs11.vcs: JL_UnlitGeneric_vs11.vsh JL_UnlitGeneric_inc.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_UnlitGeneric_vs11.vsh-----JL_UnlitGeneric_vs11
+	echo JL_UnlitGeneric_vs11.vsh>> filestocopy.txt
+	echo JL_UnlitGeneric_inc.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_unlitgeneric_vs20.inc shaders\fxc\JL_unlitgeneric_vs20.vcs: JL_unlitgeneric_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_unlitgeneric_vs20.fxc-----JL_unlitgeneric_vs20
+	echo JL_unlitgeneric_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_and_unlit_generic_bump_ps20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_bump_ps20.vcs: JL_vertexlit_and_unlit_generic_bump_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_and_unlit_generic_bump_ps2x.fxc-----JL_vertexlit_and_unlit_generic_bump_ps20
+	echo JL_vertexlit_and_unlit_generic_bump_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_and_unlit_generic_bump_ps20b.inc shaders\fxc\JL_vertexlit_and_unlit_generic_bump_ps20b.vcs: JL_vertexlit_and_unlit_generic_bump_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_and_unlit_generic_bump_ps2x.fxc-----JL_vertexlit_and_unlit_generic_bump_ps20b
+	echo JL_vertexlit_and_unlit_generic_bump_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_and_unlit_generic_bump_vs20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_bump_vs20.vcs: JL_vertexlit_and_unlit_generic_bump_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_and_unlit_generic_bump_vs20.fxc-----JL_vertexlit_and_unlit_generic_bump_vs20
+	echo JL_vertexlit_and_unlit_generic_bump_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_and_unlit_generic_ps20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_ps20.vcs: JL_vertexlit_and_unlit_generic_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_and_unlit_generic_ps2x.fxc-----JL_vertexlit_and_unlit_generic_ps20
+	echo JL_vertexlit_and_unlit_generic_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_and_unlit_generic_ps20b.inc shaders\fxc\JL_vertexlit_and_unlit_generic_ps20b.vcs: JL_vertexlit_and_unlit_generic_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_and_unlit_generic_ps2x.fxc-----JL_vertexlit_and_unlit_generic_ps20b
+	echo JL_vertexlit_and_unlit_generic_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_and_unlit_generic_vs20.inc shaders\fxc\JL_vertexlit_and_unlit_generic_vs20.vcs: JL_vertexlit_and_unlit_generic_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_and_unlit_generic_vs20.fxc-----JL_vertexlit_and_unlit_generic_vs20
+	echo JL_vertexlit_and_unlit_generic_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_vertexlit_notexture.vcs: JL_vertexlit_notexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_notexture.psh-----JL_vertexlit_notexture
+	echo JL_vertexlit_notexture.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_lighting_only_ps20.inc shaders\fxc\JL_vertexlit_lighting_only_ps20.vcs: JL_vertexlit_lighting_only_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_lighting_only_ps2x.fxc-----JL_vertexlit_lighting_only_ps20
+	echo JL_vertexlit_lighting_only_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlit_lighting_only_ps20b.inc shaders\fxc\JL_vertexlit_lighting_only_ps20b.vcs: JL_vertexlit_lighting_only_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlit_lighting_only_ps2x.fxc-----JL_vertexlit_lighting_only_ps20b
+	echo JL_vertexlit_lighting_only_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric.vcs: JL_VertexLitGeneric.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric.psh-----JL_VertexLitGeneric
+	echo JL_VertexLitGeneric.psh>> filestocopy.txt
+
+shaders\psh\JL_vertexlitgeneric_basealphamaskedenvmap.vcs: JL_vertexlitgeneric_basealphamaskedenvmap.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlitgeneric_basealphamaskedenvmap.psh-----JL_vertexlitgeneric_basealphamaskedenvmap
+	echo JL_vertexlitgeneric_basealphamaskedenvmap.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.vcs: JL_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.psh-----JL_VertexLitGeneric_BaseAlphaMaskedEnvMapV2
+	echo JL_VertexLitGeneric_BaseAlphaMaskedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_BlendTint.vcs: JL_VertexLitGeneric_BlendTint.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_BlendTint.psh-----JL_VertexLitGeneric_BlendTint
+	echo JL_VertexLitGeneric_BlendTint.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_Detail.vcs: JL_VertexLitGeneric_Detail.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_Detail.psh-----JL_VertexLitGeneric_Detail
+	echo JL_VertexLitGeneric_Detail.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_Detail_LerpBase.vcs: JL_VertexLitGeneric_Detail_LerpBase.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_Detail_LerpBase.psh-----JL_VertexLitGeneric_Detail_LerpBase
+	echo JL_VertexLitGeneric_Detail_LerpBase.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_Detail_additive.vcs: JL_VertexLitGeneric_Detail_additive.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_Detail_additive.psh-----JL_VertexLitGeneric_Detail_additive
+	echo JL_VertexLitGeneric_Detail_additive.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_Detail_additive_selfillum.vcs: JL_VertexLitGeneric_Detail_additive_selfillum.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_Detail_additive_selfillum.psh-----JL_VertexLitGeneric_Detail_additive_selfillum
+	echo JL_VertexLitGeneric_Detail_additive_selfillum.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.vcs: JL_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.psh-----JL_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2
+	echo JL_VertexLitGeneric_DetailBaseAlphaMaskedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_DetailMaskedEnvMapV2.vcs: JL_VertexLitGeneric_DetailMaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_DetailMaskedEnvMapV2.psh-----JL_VertexLitGeneric_DetailMaskedEnvMapV2
+	echo JL_VertexLitGeneric_DetailMaskedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_DetailNoTexture.vcs: JL_VertexLitGeneric_DetailNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_DetailNoTexture.psh-----JL_VertexLitGeneric_DetailNoTexture
+	echo JL_VertexLitGeneric_DetailNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_DetailSelfIlluminated.vcs: JL_VertexLitGeneric_DetailSelfIlluminated.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_DetailSelfIlluminated.psh-----JL_VertexLitGeneric_DetailSelfIlluminated
+	echo JL_VertexLitGeneric_DetailSelfIlluminated.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.vcs: JL_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.psh-----JL_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2
+	echo JL_VertexLitGeneric_DetailSelfIlluminatedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.vcs: JL_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.psh-----JL_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2
+	echo JL_VertexLitGeneric_DetailSelfIlluminatedMaskedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_EnvMapNoTexture.vcs: JL_VertexLitGeneric_EnvMapNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvMapNoTexture.psh-----JL_VertexLitGeneric_EnvMapNoTexture
+	echo JL_VertexLitGeneric_EnvMapNoTexture.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting.inc shaders\vsh\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vcs: JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vsh-----JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting
+	echo JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+vshtmp9_tmp\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.inc shaders\vsh\JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vcs: JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vsh-----JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14
+	echo JL_VertexLitGeneric_EnvmappedBumpmap_NoLighting_ps14.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2.vcs: JL_VertexLitGeneric_EnvmappedBumpmapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvmappedBumpmapV2.psh-----JL_VertexLitGeneric_EnvmappedBumpmapV2
+	echo JL_VertexLitGeneric_EnvmappedBumpmapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.vcs: JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.psh-----JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha
+	echo JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.vcs: JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.psh-----JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14
+	echo JL_VertexLitGeneric_EnvmappedBumpmapV2_MultByAlpha_ps14.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_EnvmappedBumpmapV2_ps14.vcs: JL_VertexLitGeneric_EnvmappedBumpmapV2_ps14.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvmappedBumpmapV2_ps14.psh-----JL_VertexLitGeneric_EnvmappedBumpmapV2_ps14
+	echo JL_VertexLitGeneric_EnvmappedBumpmapV2_ps14.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_EnvMapV2.vcs: JL_VertexLitGeneric_EnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_EnvMapV2.psh-----JL_VertexLitGeneric_EnvMapV2
+	echo JL_VertexLitGeneric_EnvMapV2.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_vertexlitgeneric_inc.inc shaders\vsh\JL_vertexlitgeneric_inc.vcs: JL_vertexlitgeneric_inc.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlitgeneric_inc.vsh-----JL_vertexlitgeneric_inc
+	echo JL_vertexlitgeneric_inc.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+vshtmp9_tmp\JL_vertexlitgeneric_flashlight_vs11.inc shaders\vsh\JL_vertexlitgeneric_flashlight_vs11.vcs: JL_vertexlitgeneric_flashlight_vs11.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlitgeneric_flashlight_vs11.vsh-----JL_vertexlitgeneric_flashlight_vs11
+	echo JL_vertexlitgeneric_flashlight_vs11.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_vertexlitgeneric_lightingonly_overbright2.vcs: JL_vertexlitgeneric_lightingonly_overbright2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlitgeneric_lightingonly_overbright2.psh-----JL_vertexlitgeneric_lightingonly_overbright2
+	echo JL_vertexlitgeneric_lightingonly_overbright2.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_vertexlitgeneric_lightingonly_overbright2_ps11.inc shaders\fxc\JL_vertexlitgeneric_lightingonly_overbright2_ps11.vcs: JL_vertexlitgeneric_lightingonly_overbright2_ps11.fxc 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vertexlitgeneric_lightingonly_overbright2_ps11.fxc-----JL_vertexlitgeneric_lightingonly_overbright2_ps11
+	echo JL_vertexlitgeneric_lightingonly_overbright2_ps11.fxc>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_MaskedEnvMapNoTexture.vcs: JL_VertexLitGeneric_MaskedEnvMapNoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_MaskedEnvMapNoTexture.psh-----JL_VertexLitGeneric_MaskedEnvMapNoTexture
+	echo JL_VertexLitGeneric_MaskedEnvMapNoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_MaskedEnvMapV2.vcs: JL_VertexLitGeneric_MaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_MaskedEnvMapV2.psh-----JL_VertexLitGeneric_MaskedEnvMapV2
+	echo JL_VertexLitGeneric_MaskedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_NoTexture.vcs: JL_VertexLitGeneric_NoTexture.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_NoTexture.psh-----JL_VertexLitGeneric_NoTexture
+	echo JL_VertexLitGeneric_NoTexture.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_SelfIlluminated.vcs: JL_VertexLitGeneric_SelfIlluminated.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_SelfIlluminated.psh-----JL_VertexLitGeneric_SelfIlluminated
+	echo JL_VertexLitGeneric_SelfIlluminated.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_SelfIlluminatedEnvMapV2.vcs: JL_VertexLitGeneric_SelfIlluminatedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_SelfIlluminatedEnvMapV2.psh-----JL_VertexLitGeneric_SelfIlluminatedEnvMapV2
+	echo JL_VertexLitGeneric_SelfIlluminatedEnvMapV2.psh>> filestocopy.txt
+
+shaders\psh\JL_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.vcs: JL_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.psh-----JL_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2
+	echo JL_VertexLitGeneric_SelfIlluminatedMaskedEnvMapV2.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_VertexLitGeneric_SelfIllumOnly.inc shaders\vsh\JL_VertexLitGeneric_SelfIllumOnly.vcs: JL_VertexLitGeneric_SelfIllumOnly.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_SelfIllumOnly.vsh-----JL_VertexLitGeneric_SelfIllumOnly
+	echo JL_VertexLitGeneric_SelfIllumOnly.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+vshtmp9_tmp\JL_VertexLitGeneric_vs11.inc shaders\vsh\JL_VertexLitGeneric_vs11.vcs: JL_VertexLitGeneric_vs11.vsh macros.vsh VertexLitGeneric_inc.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_VertexLitGeneric_vs11.vsh-----JL_VertexLitGeneric_vs11
+	echo JL_VertexLitGeneric_vs11.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+	echo VertexLitGeneric_inc.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_volume_clouds_vs20.inc shaders\fxc\JL_volume_clouds_vs20.vcs: JL_volume_clouds_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_volume_clouds_vs20.fxc-----JL_volume_clouds_vs20
+	echo JL_volume_clouds_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_volume_clouds_ps20.inc shaders\fxc\JL_volume_clouds_ps20.vcs: JL_volume_clouds_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_volume_clouds_ps2x.fxc-----JL_volume_clouds_ps20
+	echo JL_volume_clouds_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_volume_clouds_ps20b.inc shaders\fxc\JL_volume_clouds_ps20b.vcs: JL_volume_clouds_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_volume_clouds_ps2x.fxc-----JL_volume_clouds_ps20b
+	echo JL_volume_clouds_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vortwarp_ps20.inc shaders\fxc\JL_vortwarp_ps20.vcs: JL_vortwarp_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vortwarp_ps2x.fxc-----JL_vortwarp_ps20
+	echo JL_vortwarp_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vortwarp_ps20b.inc shaders\fxc\JL_vortwarp_ps20b.vcs: JL_vortwarp_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_flashlight_fxc.h common_vertexlitgeneric_dx9.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vortwarp_ps2x.fxc-----JL_vortwarp_ps20b
+	echo JL_vortwarp_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vortwarp_vs20.inc shaders\fxc\JL_vortwarp_vs20.vcs: JL_vortwarp_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h vortwarp_vs20_helper.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vortwarp_vs20.fxc-----JL_vortwarp_vs20
+	echo JL_vortwarp_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+	echo vortwarp_vs20_helper.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vr_distort_hud_ps20.inc shaders\fxc\JL_vr_distort_hud_ps20.vcs: JL_vr_distort_hud_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vr_distort_hud_ps2x.fxc-----JL_vr_distort_hud_ps20
+	echo JL_vr_distort_hud_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vr_distort_hud_ps20b.inc shaders\fxc\JL_vr_distort_hud_ps20b.vcs: JL_vr_distort_hud_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vr_distort_hud_ps2x.fxc-----JL_vr_distort_hud_ps20b
+	echo JL_vr_distort_hud_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vr_distort_hud_vs20.inc shaders\fxc\JL_vr_distort_hud_vs20.vcs: JL_vr_distort_hud_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vr_distort_hud_vs20.fxc-----JL_vr_distort_hud_vs20
+	echo JL_vr_distort_hud_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vr_distort_texture_ps20.inc shaders\fxc\JL_vr_distort_texture_ps20.vcs: JL_vr_distort_texture_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vr_distort_texture_ps2x.fxc-----JL_vr_distort_texture_ps20
+	echo JL_vr_distort_texture_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vr_distort_texture_ps20b.inc shaders\fxc\JL_vr_distort_texture_ps20b.vcs: JL_vr_distort_texture_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vr_distort_texture_ps2x.fxc-----JL_vr_distort_texture_ps20b
+	echo JL_vr_distort_texture_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_vr_distort_texture_vs20.inc shaders\fxc\JL_vr_distort_texture_vs20.vcs: JL_vr_distort_texture_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_vr_distort_texture_vs20.fxc-----JL_vr_distort_texture_vs20
+	echo JL_vr_distort_texture_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_Water_ps20.inc shaders\fxc\JL_Water_ps20.vcs: JL_Water_ps2x.fxc common_fxc.h water_ps2x_helper.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_Water_ps2x.fxc-----JL_Water_ps20
+	echo JL_Water_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo water_ps2x_helper.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_Water_ps20b.inc shaders\fxc\JL_Water_ps20b.vcs: JL_Water_ps2x.fxc common_fxc.h water_ps2x_helper.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_Water_ps2x.fxc-----JL_Water_ps20b
+	echo JL_Water_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo water_ps2x_helper.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_Water_vs20.inc shaders\fxc\JL_Water_vs20.vcs: JL_Water_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_Water_vs20.fxc-----JL_Water_vs20
+	echo JL_Water_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_WaterCheap_ps20.inc shaders\fxc\JL_WaterCheap_ps20.vcs: JL_WaterCheap_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WaterCheap_ps2x.fxc-----JL_WaterCheap_ps20
+	echo JL_WaterCheap_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_WaterCheap_ps20b.inc shaders\fxc\JL_WaterCheap_ps20b.vcs: JL_WaterCheap_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WaterCheap_ps2x.fxc-----JL_WaterCheap_ps20b
+	echo JL_WaterCheap_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_WaterCheap_vs20.inc shaders\fxc\JL_WaterCheap_vs20.vcs: JL_WaterCheap_vs20.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WaterCheap_vs20.fxc-----JL_WaterCheap_vs20
+	echo JL_WaterCheap_vs20.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_WorldVertexAlpha.vcs: JL_WorldVertexAlpha.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexAlpha.psh-----JL_WorldVertexAlpha
+	echo JL_WorldVertexAlpha.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_WorldVertexAlpha.inc shaders\vsh\JL_WorldVertexAlpha.vcs: JL_WorldVertexAlpha.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexAlpha.vsh-----JL_WorldVertexAlpha
+	echo JL_WorldVertexAlpha.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+fxctmp9_tmp\JL_worldvertexalpha_ps20.inc shaders\fxc\JL_worldvertexalpha_ps20.vcs: JL_worldvertexalpha_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_worldvertexalpha_ps2x.fxc-----JL_worldvertexalpha_ps20
+	echo JL_worldvertexalpha_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_worldvertexalpha_ps20b.inc shaders\fxc\JL_worldvertexalpha_ps20b.vcs: JL_worldvertexalpha_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_worldvertexalpha_ps2x.fxc-----JL_worldvertexalpha_ps20b
+	echo JL_worldvertexalpha_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+shaders\psh\JL_WorldTwoTextureBlend.vcs: JL_WorldTwoTextureBlend.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldTwoTextureBlend.psh-----JL_WorldTwoTextureBlend
+	echo JL_WorldTwoTextureBlend.psh>> filestocopy.txt
+
+shaders\psh\JL_WorldTwoTextureBlend_DetailAlpha.vcs: JL_WorldTwoTextureBlend_DetailAlpha.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldTwoTextureBlend_DetailAlpha.psh-----JL_WorldTwoTextureBlend_DetailAlpha
+	echo JL_WorldTwoTextureBlend_DetailAlpha.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_WorldTwoTextureBlend_ps20.inc shaders\fxc\JL_WorldTwoTextureBlend_ps20.vcs: JL_WorldTwoTextureBlend_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_flashlight_fxc.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldTwoTextureBlend_ps2x.fxc-----JL_WorldTwoTextureBlend_ps20
+	echo JL_WorldTwoTextureBlend_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_WorldTwoTextureBlend_ps20b.inc shaders\fxc\JL_WorldTwoTextureBlend_ps20b.vcs: JL_WorldTwoTextureBlend_ps2x.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h shader_constant_register_map.h common_flashlight_fxc.h common_ps_fxc.h common_vertexlitgeneric_dx9.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldTwoTextureBlend_ps2x.fxc-----JL_WorldTwoTextureBlend_ps20b
+	echo JL_WorldTwoTextureBlend_ps2x.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo shader_constant_register_map.h>> filestocopy.txt
+	echo common_flashlight_fxc.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+	echo common_vertexlitgeneric_dx9.h>> filestocopy.txt
+
+shaders\psh\JL_WorldTwoTextureBlend_SelfIlluminated.vcs: JL_WorldTwoTextureBlend_SelfIlluminated.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldTwoTextureBlend_SelfIlluminated.psh-----JL_WorldTwoTextureBlend_SelfIlluminated
+	echo JL_WorldTwoTextureBlend_SelfIlluminated.psh>> filestocopy.txt
+
+shaders\psh\JL_WorldVertexTransition.vcs: JL_WorldVertexTransition.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition.psh-----JL_WorldVertexTransition
+	echo JL_WorldVertexTransition.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_WorldVertexTransition.inc shaders\vsh\JL_WorldVertexTransition.vcs: JL_WorldVertexTransition.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition.vsh-----JL_WorldVertexTransition
+	echo JL_WorldVertexTransition.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_WorldVertexTransition_ps14.vcs: JL_WorldVertexTransition_ps14.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition_ps14.psh-----JL_WorldVertexTransition_ps14
+	echo JL_WorldVertexTransition_ps14.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_WorldVertexTransition_vs14.inc shaders\vsh\JL_WorldVertexTransition_vs14.vcs: JL_WorldVertexTransition_vs14.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition_vs14.vsh-----JL_WorldVertexTransition_vs14
+	echo JL_WorldVertexTransition_vs14.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_WorldVertexTransition_Seamless.vcs: JL_WorldVertexTransition_Seamless.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition_Seamless.psh-----JL_WorldVertexTransition_Seamless
+	echo JL_WorldVertexTransition_Seamless.psh>> filestocopy.txt
+
+vshtmp9_tmp\JL_WorldVertexTransition_Seamless.inc shaders\vsh\JL_WorldVertexTransition_Seamless.vcs: JL_WorldVertexTransition_Seamless.vsh macros.vsh
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\vsh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition_Seamless.vsh-----JL_WorldVertexTransition_Seamless
+	echo JL_WorldVertexTransition_Seamless.vsh>> filestocopy.txt
+	echo macros.vsh>> filestocopy.txt
+
+shaders\psh\JL_WorldVertexTransition_BlendBase2.vcs: JL_WorldVertexTransition_BlendBase2.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition_BlendBase2.psh-----JL_WorldVertexTransition_BlendBase2
+	echo JL_WorldVertexTransition_BlendBase2.psh>> filestocopy.txt
+
+shaders\psh\JL_WorldVertexTransition_Editor.vcs: JL_WorldVertexTransition_Editor.psh 
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\psh_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_WorldVertexTransition_Editor.psh-----JL_WorldVertexTransition_Editor
+	echo JL_WorldVertexTransition_Editor.psh>> filestocopy.txt
+
+fxctmp9_tmp\JL_writevertexalphatodestalpha_ps11.inc shaders\fxc\JL_writevertexalphatodestalpha_ps11.vcs: JL_writevertexalphatodestalpha_ps11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_ps_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_writevertexalphatodestalpha_ps11.fxc-----JL_writevertexalphatodestalpha_ps11
+	echo JL_writevertexalphatodestalpha_ps11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_ps_fxc.h>> filestocopy.txt
+
+fxctmp9_tmp\JL_writevertexalphatodestalpha_vs11.inc shaders\fxc\JL_writevertexalphatodestalpha_vs11.vcs: JL_writevertexalphatodestalpha_vs11.fxc common_fxc.h common_hlsl_cpp_consts.h common_pragmas.h common_vs_fxc.h
+	perl G:\programming\jurassic-life\sp\src\devtools\bin\fxc_prep.pl   -source "G:\programming\jurassic-life\sp\src" JL_writevertexalphatodestalpha_vs11.fxc-----JL_writevertexalphatodestalpha_vs11
+	echo JL_writevertexalphatodestalpha_vs11.fxc>> filestocopy.txt
+	echo common_fxc.h>> filestocopy.txt
+	echo common_hlsl_cpp_consts.h>> filestocopy.txt
+	echo common_pragmas.h>> filestocopy.txt
+	echo common_vs_fxc.h>> filestocopy.txt
 

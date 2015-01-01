@@ -1,4 +1,8 @@
-/Debug_dx9_mod_episodic/
-/Release_dx9_mod_episodic/
+/Debug_dx9_jurassic-life/
+/Release_dx9_jurassic-life/
 /shaders/
 /fxctmp9_tmp/
+/vshtmp9_tmp/
+NIL*
+*.copy
+inclist.txt
